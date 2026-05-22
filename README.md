@@ -14,10 +14,7 @@
 
 它不是一个游戏攻略库，也不是官方设定集；更准确地说，它是一个面向 Agent 的结构化 Lore Graph：把角色、NPC、组织、神明、种族、事件、地点、概念以及它们之间的关系转换为标准化的节点、边、邻接表、层级树和查询脚本。
 
-数据来源：
-
-- 人物/实体关系图：`https://open.graphlink.cc/GraphVisualizationShare?id=6964957435d5c31deca9f855`
-- 世界观/本体图谱：`https://open.graphlink.cc/GraphVisualizationShare?id=6964957435d5c31deca9f855&type=ontology`
+数据来源：`open.GraphLink.cc/Genshin`
 
 ## 数据规模
 
@@ -94,6 +91,28 @@ Skill 路径：
 skills/genshin-lore-graph/
 ```
 
+常用 Skill 安装命令：
+
+```powershell
+# Codex, Windows PowerShell
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills"
+Copy-Item -Recurse -Force ".\skills\genshin-lore-graph" "$env:USERPROFILE\.codex\skills\"
+
+# Claude Code, Windows PowerShell
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.claude\skills"
+Copy-Item -Recurse -Force ".\skills\genshin-lore-graph" "$env:USERPROFILE\.claude\skills\"
+```
+
+```bash
+# Codex, macOS/Linux
+mkdir -p ~/.codex/skills
+cp -R skills/genshin-lore-graph ~/.codex/skills/
+
+# Claude Code, macOS/Linux
+mkdir -p ~/.claude/skills
+cp -R skills/genshin-lore-graph ~/.claude/skills/
+```
+
 查询脚本示例：
 
 ```bash
@@ -125,20 +144,7 @@ python skills/genshin-lore-graph/scripts/query_genshin_graph.py --search "坎瑞
 - 图谱边是有向的：`source --relation--> target`。不要默认关系可反向成立。
 - 图中保留了“伏笔”“猜测”“问题”等原始备注。此类内容应作为线索或整理者注记，不应直接当作官方定论。
 - 数据基于公开 GraphLink 分享页在整理时的内容，不保证与游戏最新版本同步。
+- 受原始资料覆盖范围限制，图谱难免存在缺失、滞后或未记录关系；建议在需要高准确性或最新剧情时结合网络搜索、官方资料一起交叉验证。
+- 完整图谱文件体量较大，直接塞进提示词容易 token 爆炸；推荐优先使用 Skill 查询脚本、`lookup_by_name.json`、`paths.jsonl` 等索引文件按需读取。
 - 本仓库不隶属于 HoYoverse、miHoYo 或 GraphLink。
 - 原神相关名称、设定和商标归其权利方所有；本仓库仅用于非商业的学习、研究和 Agent 检索实验。
-
-## 推荐 GitHub Topics
-
-```text
-genshin-impact
-genshin
-lore
-knowledge-graph
-graphlink
-jsonl
-rag
-agent
-claude-code
-codex
-```
