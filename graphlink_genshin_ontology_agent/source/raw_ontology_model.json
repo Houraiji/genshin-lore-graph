@@ -1,0 +1,7310 @@
+{
+  "nodes": [
+    {
+      "id": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 278,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4542.1408385520535,
+        "y": 1137.3387316922212,
+        "labelText": "提瓦特世界",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "提瓦特世界"
+      },
+      "states": [],
+      "attributes": [],
+      "markText": []
+    },
+    {
+      "id": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 51,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4663.145813414616,
+        "y": 979.3552007198103,
+        "labelText": "组织",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "组织"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 299,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4239.070194816987,
+        "y": 1103.0869447897499,
+        "labelText": "蒙德",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "蒙德"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4270.978789866098,
+        "y": 997.7101409507989,
+        "labelText": "璃月",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "璃月"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 2
+    },
+    {
+      "id": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4841.581825891519,
+        "y": 1079.3724043877728,
+        "labelText": "稻妻",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "稻妻"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 151,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4386.82017912637,
+        "y": 874.849698101157,
+        "labelText": "枫丹",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "枫丹"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 168,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4530.145487035454,
+        "y": 832.5747056950685,
+        "labelText": "纳塔",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "纳塔"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 6
+    },
+    {
+      "id": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 280,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4648.624247307072,
+        "y": 851.5306078400263,
+        "labelText": "挪德卡莱",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "挪德卡莱"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "0160e74d-449f-4edc-b7c0-92d702a810f1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 108,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4131.58590579192,
+        "y": 1118.2168283789474,
+        "labelText": "西风骑士团",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "西风骑士团"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "90d80cb7-81d7-4d50-8b54-811ad5ec06c9",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 284,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4133.740725191029,
+        "y": 1091.1830450793827,
+        "labelText": "西风教会",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "西风教会"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 185,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4735.4883289574445,
+        "y": 901.4537004716342,
+        "labelText": "坎瑞亚",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "坎瑞亚"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 10,
+      "markText": [
+        "须弥因论派称 荼诃古国"
+      ]
+    },
+    {
+      "id": "a618c940-7776-45e5-9740-1661dd43df65",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4764.8512379215745,
+        "y": 928.9518846680663,
+        "labelText": "天空岛",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "天空岛"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 9
+    },
+    {
+      "id": "4a0f89e2-d40d-48c9-b279-59eea54a0b73",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 112,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4137.673686412583,
+        "y": 1064.3502199921816,
+        "labelText": "魔女会",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "魔女会"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "4bcfa3ea-ebab-42d0-9ff5-485b8393a636",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 282,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4769.993460311896,
+        "y": 795.2799900159326,
+        "labelText": "深渊教团",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "深渊教团"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "c1ddd228-73f7-4499-805b-8b235adce061",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 187,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4792.055635881265,
+        "y": 811.0511375733224,
+        "labelText": "坎瑞亚宫廷卫队",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "坎瑞亚宫廷卫队"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "f5b719a7-d04d-4ad2-9869-cee73ba86211",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 300,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4143.3676656542,
+        "y": 1037.8351811174857,
+        "labelText": "古华派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "古华派"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "4e603aca-92a3-45df-adaa-aa95a1783680",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 114,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4150.797871780191,
+        "y": 1011.7533728393796,
+        "labelText": "璃月七星",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "璃月七星"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 191,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4790.339714801347,
+        "y": 960.0753180147578,
+        "labelText": "至冬",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "至冬"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 8
+    },
+    {
+      "id": "860bfa89-b352-4e5c-8820-48685fa3b1fd",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 190,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4851.353364341408,
+        "y": 866.5830966724354,
+        "labelText": "北国银行",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "北国银行"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "48bfff1c-e51b-4878-9909-86b62b2b29ca",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 115,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4159.931954260206,
+        "y": 986.218353290163,
+        "labelText": "总务司",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "总务司"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "631fa0ed-e4cd-47f8-94f7-96b3c316d169",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 124,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4911.289706388654,
+        "y": 956.6453079741555,
+        "labelText": "天领奉行",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "天领奉行"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "8b10256f-5988-4d81-a349-d7c1f7a40582",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 125,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4922.402512869258,
+        "y": 981.3834206397412,
+        "labelText": "勘定奉行",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "勘定奉行"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 126,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4931.859690067561,
+        "y": 1006.8005504063082,
+        "labelText": "社奉行",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "社奉行"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "f2d0dfe1-be7e-4a83-a1b3-f0602751f9e4",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 123,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4939.62006218133,
+        "y": 1032.7860330992742,
+        "labelText": "鸣神大社",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "鸣神大社"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "00c28cc4-da35-4599-ae1b-43ffd2cf8cc1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 127,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5032.371121358665,
+        "y": 973.1337688581165,
+        "labelText": "终末番",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "终末番"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "b4fe42d3-d2f1-4233-9019-a63ed5402574",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 128,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4945.649841163595,
+        "y": 1059.2267299803252,
+        "labelText": "珊瑚宫",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "珊瑚宫"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 9
+    },
+    {
+      "id": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4949.190163916556,
+        "y": 1194.188065200216,
+        "labelText": "教令院",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "教令院"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "8da8e3cd-104e-49d9-84c9-95a4cb826bf8",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5058.9630501356605,
+        "y": 1123.781386309381,
+        "labelText": "妙论派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "妙论派"
+      },
+      "states": [],
+      "attributes": [],
+      "markText": [
+        ""
+      ]
+    },
+    {
+      "id": "21834f8c-4ab0-43f2-a95f-2c3197e093c7",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5058.732032845863,
+        "y": 1157.89446028783,
+        "labelText": "生论派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "生论派"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "9f2aa31a-6841-4e39-94d2-f157e192cd77",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5056.251818316326,
+        "y": 1191.9180362482546,
+        "labelText": "知论派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "知论派"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "2accc503-b32b-4100-80d4-000d7a1c1d13",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5051.533205205129,
+        "y": 1225.7039782294123,
+        "labelText": "明论派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "明论派"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "7bfae956-bf06-4e0e-a913-6a17350ac77b",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5044.596737980902,
+        "y": 1259.1051849096284,
+        "labelText": "因论派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "因论派"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 136,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4908.80861144271,
+        "y": 1323.0151823352853,
+        "labelText": "镀金旅团",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "镀金旅团"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "4a6d5c2c-c026-43d4-96e6-07162d4d2c18",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 129,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4949.92277383313,
+        "y": 1086.0075203445435,
+        "labelText": "荒泷派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "荒泷派"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 11
+    },
+    {
+      "id": "458dfe55-95a6-4180-84f7-83f51f80f61f",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 30,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5035.47261747383,
+        "y": 1291.976230074328,
+        "labelText": "素论派",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "素论派"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "e27a03d4-ef6e-4171-bb52-3d52bc14ea87",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 189,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4868.536102025401,
+        "y": 887.5645697335358,
+        "labelText": "壁炉之家",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "壁炉之家"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "3d194906-c780-404d-85ae-4501d4487417",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 52,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4822.38234823995,
+        "y": 1016.9655775097015,
+        "labelText": "白夜国",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "白夜国"
+      },
+      "states": [],
+      "attributes": [],
+      "markText": [
+        "德尔斐.皮托？"
+      ],
+      "order": 11
+    },
+    {
+      "id": "43c0c2db-075b-46b9-9ee9-e54af2c7a5c0",
+      "type": "circle",
+      "states": [],
+      "attributes": [],
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "五大罪人"
+      },
+      "style": {
+        "size": 20,
+        "zIndex": 188,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4813.029702170932,
+        "y": 828.2429155327779,
+        "labelText": "五大罪人",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "order": 1
+    },
+    {
+      "id": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 192,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4486.406349424097,
+        "y": 1328.37450510036,
+        "labelText": "种族",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "种族"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "d6216a15-9fb3-45b3-bb84-856f2c6b226d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 195,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4635.211625440221,
+        "y": 1427.7915310039466,
+        "labelText": "人类",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "人类"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "9ea97925-27d7-4edd-9f5b-e8963492a14b",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 212,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4615.854137848143,
+        "y": 1433.2970894165558,
+        "labelText": "龙族",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "龙族"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "fe6e337a-7585-47b9-8db9-4d181b590fd4",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 213,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4596.175708375638,
+        "y": 1437.514068525793,
+        "labelText": "仙人",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "仙人"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "9ec745cd-77a3-4460-bd0f-8b7f93268273",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 196,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4576.262015349671,
+        "y": 1440.4241079378357,
+        "labelText": "魔神",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "魔神"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 199,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4556.199761416128,
+        "y": 1442.0145375710308,
+        "labelText": "鬼族",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "鬼族"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 15
+    },
+    {
+      "id": "a1a33a4e-da94-49d5-80d6-dc8a0553b6b3",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 219,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4536.076296043349,
+        "y": 1442.278432820428,
+        "labelText": "食梦貘",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "食梦貘"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 17
+    },
+    {
+      "id": "e36b8db9-f587-4e75-8726-793693ccd967",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 220,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4515.979235209442,
+        "y": 1441.2146447069645,
+        "labelText": "妖狸",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "妖狸"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 19
+    },
+    {
+      "id": "bf1adda0-f502-4f1c-a5d9-484171a255a6",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 225,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4495.996079929241,
+        "y": 1438.8278048800275,
+        "labelText": "兰那罗",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "兰那罗"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 21
+    },
+    {
+      "id": "958f1b47-962c-4da8-9e01-52242feeddf2",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 224,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4476.213835281797,
+        "y": 1435.1283054516189,
+        "labelText": "花灵",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "花灵"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 23
+    },
+    {
+      "id": "ff98324c-ba16-435f-9fde-4c1e17e934de",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 217,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4574.62084973438,
+        "y": 1547.0533261034966,
+        "labelText": "青鬼",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "青鬼"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 2
+    },
+    {
+      "id": "d1fe2f40-286c-4bd5-a485-9acb412ff027",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 218,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4547.530150013869,
+        "y": 1548.3033960150406,
+        "labelText": "赤鬼",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "赤鬼"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "2994fd7c-0350-4b11-bfc7-0d1e2c5d5631",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 214,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4614.955040183179,
+        "y": 1541.8373003433621,
+        "labelText": "夜叉",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "夜叉"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "type": "circle",
+      "states": [],
+      "attributes": [],
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "须弥"
+      },
+      "style": {
+        "size": 20,
+        "zIndex": 135,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4804.562913032889,
+        "y": 1292.7724951581258,
+        "labelText": "须弥",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "order": 4
+    },
+    {
+      "id": "c690f01c-0c22-4e5e-9d20-422db5817e89",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 164,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4247.795920104238,
+        "y": 850.4902194354054,
+        "labelText": "逐影庭",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "逐影庭"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "29c5046d-5bb4-429f-81a0-8d9db1e50ed2",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 163,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4267.353876827499,
+        "y": 831.7031224020265,
+        "labelText": "刺玫会",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "刺玫会"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 9
+    },
+    {
+      "id": "fef51bc3-017e-4b51-9a37-5ef3c7df4e17",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 223,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4456.718631597146,
+        "y": 1430.1322537499213,
+        "labelText": "美露辛",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "美露辛"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 25
+    },
+    {
+      "id": "ae3126b1-7870-42fa-94ed-3b31bef0e5af",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 140,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4895.765338918032,
+        "y": 1346.7920981987352,
+        "labelText": "缄默之殿",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "缄默之殿"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 11
+    },
+    {
+      "id": "51e566e9-47e4-4d8d-8685-124efa2fb9ab",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 43,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5024.200569383625,
+        "y": 1324.1739957902819,
+        "labelText": "炽光猎兽",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [],
+        "title": "炽光猎兽"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "7e950ae4-db22-4261-a15a-16b093008c44",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5010.829671316977,
+        "y": 1355.5582955297787,
+        "labelText": "神王之遗",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "神王之遗"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "d8cfae96-5a2a-4247-ac32-7e500c1cd11e",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 147,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 5106.9244803558195,
+        "y": 1400.2996374384463,
+        "labelText": "阿赫玛尔之眼",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "阿赫玛尔之眼"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "5abab0b5-6e47-46aa-b6c5-78422fb3125f",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4995.418139107517,
+        "y": 1385.9924845316907,
+        "labelText": "图特摩斯",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [],
+        "title": "图特摩斯"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "7492afbf-20b5-4db6-84c9-2fe25cf54986",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4978.033073348692,
+        "y": 1415.3440547419646,
+        "labelText": "塔尼特部族",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [],
+        "title": "塔尼特部族"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "946db52a-dd3c-4d11-98f4-a2caf3fd6a3a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 141,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4881.1824132616075,
+        "y": 1369.6570706550885,
+        "labelText": "居尔城",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "居尔城"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "fee5ef28-916f-4dd4-8567-e8cd5613147a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 234,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4437.595349451649,
+        "y": 1423.8614021892643,
+        "labelText": "镇灵",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "镇灵"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 27
+    },
+    {
+      "id": "86a2022b-5d3a-4760-9219-ba18271b7254",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 139,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4865.123327379425,
+        "y": 1391.510547421024,
+        "labelText": "那伽朱那团/矫论团",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "那伽朱那团/矫论团"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 9
+    },
+    {
+      "id": "ed4c84ca-3dde-467e-8c69-68122e10892d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 183,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4832.824339753612,
+        "y": 846.7804722515307,
+        "labelText": "白鹄骑士",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "白鹄骑士"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "e03846e0-bb86-4fa9-a177-5891bd382cc3",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 169,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4458.744468099905,
+        "y": 734.8886783993835,
+        "labelText": "回声之子",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "回声之子"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "8f0a8960-e4a5-4422-9a56-6e4fe72226da",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 170,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4485.46692639022,
+        "y": 730.264945161729,
+        "labelText": "悬木人",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "悬木人"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 2
+    },
+    {
+      "id": "d6c876e1-9816-4d44-9235-3ddc30180946",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 171,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4512.436138415805,
+        "y": 727.4135790243038,
+        "labelText": "流泉之众",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "流泉之众"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "56928a5c-3e67-4736-9eca-85db0fcd03ee",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 172,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4539.534682358563,
+        "y": 726.3469946099592,
+        "labelText": "花羽会",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "花羽会"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 4
+    },
+    {
+      "id": "6e743a6a-6205-4d2f-9640-f27a0df7cb1a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 173,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4566.644573299455,
+        "y": 727.069835742956,
+        "labelText": "烟迷主",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "烟迷主"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "5099bb7f-3073-4af4-89d2-ff991c3f267d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 168,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4593.6477769155035,
+        "y": 729.5789552301187,
+        "labelText": "沃陆之邦",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "沃陆之邦"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 6
+    },
+    {
+      "id": "81fbf609-7726-4ae7-822d-f20844213c1c",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 289,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4418.927250104675,
+        "y": 1416.34305356183,
+        "labelText": "天使",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "天使"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 31
+    },
+    {
+      "id": "13a2a746-930a-4f6c-80ab-59b5327dbfb8",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 292,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4288.108234268881,
+        "y": 814.2467386606561,
+        "labelText": "水仙十字结社",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [],
+        "title": "水仙十字结社"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "c99011f6-aee5-4d38-abad-5a675ad18a07",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 290,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4400.79561298566,
+        "y": 1407.609942163454,
+        "labelText": "纯水精灵",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "纯水精灵"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 29
+    },
+    {
+      "id": "cf94fee1-11bd-4e57-bdab-25502c95ea14",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 165,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4309.968629596057,
+        "y": 798.1970719267283,
+        "labelText": "枫丹科学院",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "枫丹科学院"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "de181c19-8112-4a8d-8a0c-5353581e8645",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 49,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4762.008505811888,
+        "y": 1348.722763477308,
+        "labelText": "雷穆利亚",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "雷穆利亚"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 12
+    },
+    {
+      "id": "fcddc9d4-ace8-4774-81d5-97704b0cf418",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 275,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4707.77514858114,
+        "y": 1393.4447162790495,
+        "labelText": "圣城图兰",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "圣城图兰"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 13
+    },
+    {
+      "id": "3aa2f640-2928-4484-8901-0b2991271be1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 134,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4765.339859607641,
+        "y": 1482.4520420698816,
+        "labelText": "至高领主",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "至高领主"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "932b006d-dd23-474b-9715-59f6f19ec130",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4884.297740523468,
+        "y": 909.633539759046,
+        "labelText": "愚人众执行官",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "愚人众执行官"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "ac618cb2-c7d9-4dfb-b81d-328347c97d56",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 280,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4620.426723391913,
+        "y": 733.8634285634669,
+        "labelText": "秘闻馆",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "秘闻馆"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "8331ea2c-01be-43f2-adda-5c2b340d3a3d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 280,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4646.864819311756,
+        "y": 739.9046014846592,
+        "labelText": "执灯士",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "执灯士"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 3
+    },
+    {
+      "id": "5f8e1d29-35fa-4cb5-b1fc-0c06b5dc883d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 280,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4672.846955294495,
+        "y": 747.6761712041609,
+        "labelText": "叮铃咣啷蛋卷工坊",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "叮铃咣啷蛋卷工坊"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 8
+    },
+    {
+      "id": "dcabe319-583f-4bce-bb1b-0e319393e357",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 280,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4698.260007173127,
+        "y": 757.1443009215104,
+        "labelText": "霜月之子",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "霜月之子"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "f136a4dc-512c-4dad-b736-c476b2ceaccd",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 146,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4847.658001262453,
+        "y": 1412.25738018553,
+        "labelText": "赤王七柱",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "赤王七柱"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 5
+    },
+    {
+      "id": "0c2b9986-fc30-4648-986a-e889bc43e45c",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 276,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4690.5248080325255,
+        "y": 1403.8104892974472,
+        "labelText": "亥珀波瑞亚",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "亥珀波瑞亚"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 14
+    },
+    {
+      "id": "6e66927e-8dad-447f-9034-40983cd460df",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 277,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4672.628415405859,
+        "y": 1413.0160653394075,
+        "labelText": "芬德尼尔",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "芬德尼尔"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 15
+    },
+    {
+      "id": "9a9aa70d-ccbf-44ff-aa7d-6c7654ac76c6",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 291,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4383.279381809885,
+        "y": 1397.7000912710887,
+        "labelText": "原魔",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "原魔"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 99
+    },
+    {
+      "id": "fc74d338-4451-49e3-bf49-b79116c28cad",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 288,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4366.454820863786,
+        "y": 1386.6566475924585,
+        "labelText": "黄金造物",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "黄金造物"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 9
+    },
+    {
+      "id": "516a6be2-ca26-4cb3-ad6a-b7a270dec00d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 283,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4722.993328527872,
+        "y": 768.2677671480749,
+        "labelText": "北大陆情报网",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "北大陆情报网"
+      },
+      "states": [],
+      "attributes": [],
+      "markText": [
+        ""
+      ],
+      "order": 6
+    },
+    {
+      "id": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 95,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4350.917443618261,
+        "y": 1192.426055370132,
+        "labelText": "能力",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "能力"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 2
+    },
+    {
+      "id": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 302,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4239.793839465065,
+        "y": 1177.4796353080128,
+        "labelText": "光界力",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "光界力"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "2"
+    },
+    {
+      "id": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 262,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4253.596057992819,
+        "y": 1236.1664080385915,
+        "labelText": "人界力",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "人界力"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 1
+    },
+    {
+      "id": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 260,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4264.776164398067,
+        "y": 1264.2002212446173,
+        "labelText": "虚界力",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "虚界力"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "3"
+    },
+    {
+      "id": "9aa6ed9f-ba0c-4ff4-ae17-d91ed1d63964",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 264,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4149.132888947782,
+        "y": 1257.6123844506121,
+        "labelText": "神之眼",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "神之眼"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "d743ef28-a41d-4e5e-b324-51966bdd23db",
+          "title": "元素"
+        },
+        {
+          "id": "f9221941-5b78-4c88-9ebc-b67335befd99",
+          "title": "武器"
+        },
+        {
+          "id": "09ce6c73-405a-4887-b4b1-efb583bbb47f",
+          "title": "职业"
+        },
+        {
+          "id": "a9915c63-2d3a-46a6-8492-ad6a5d1987fb",
+          "title": "功能"
+        }
+      ],
+      "order": "2"
+    },
+    {
+      "id": "8efb18b5-6a01-47ec-b290-a10f75276bfc",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 272,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4142.056605553697,
+        "y": 1231.432336714651,
+        "labelText": "燃素力",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "燃素力"
+      },
+      "states": [],
+      "attributes": []
+    },
+    {
+      "id": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4343.249171824154,
+        "y": 1143.9041643663072,
+        "labelText": "等级",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "等级"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 4
+    },
+    {
+      "id": "ffaf631d-a608-4f31-a7aa-076ea2247d7b",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4170.7301440208885,
+        "y": 961.3412999272164,
+        "labelText": "不卜卢",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "不卜卢"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 10
+    },
+    {
+      "id": "626cfd67-d1da-4659-9d2a-85a9a8c31037",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 120,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4183.145426597275,
+        "y": 937.2305254751368,
+        "labelText": "往生堂",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "往生堂"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "484a33b1-9b0d-4aa0-a574-3088797f671b",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 304,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4237.8048115017455,
+        "y": 1157.4529714052746,
+        "labelText": "五星角色",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "五星角色"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "fe8c831c-a034-45bf-9abe-822525cdf34b",
+          "title": "武器推荐"
+        },
+        {
+          "id": "d5937405-c479-4854-9cab-ef7c0f79cea5",
+          "title": "圣遗物推荐"
+        },
+        {
+          "id": "3677a219-c6c5-482a-b48b-3bc70c2c0b45",
+          "title": "天赋加点推荐"
+        },
+        {
+          "id": "47aaaf60-a512-4e0f-af98-3bf1a0abb8e5",
+          "title": "毕业面板推荐"
+        }
+      ],
+      "order": 1
+    },
+    {
+      "id": "e74966d3-8cf4-4c2a-a4c5-7907b7ce3a69",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 305,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4237.1408385520535,
+        "y": 1137.3387316922212,
+        "labelText": "四星角色",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "四星角色"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "510e49b1-ecb6-4792-aa58-71fdb2d033f9",
+          "title": "武器推荐"
+        },
+        {
+          "id": "f8de209a-cab5-428d-96cb-58ffb3e5a8f7",
+          "title": "圣遗物推荐"
+        },
+        {
+          "id": "eb2e97fb-994b-4d0c-89c6-c3e1739d53a7",
+          "title": "天赋加点推荐"
+        },
+        {
+          "id": "8ff6b8cc-b347-4229-bb30-36cbcc5d5639",
+          "title": "毕业面板推荐"
+        }
+      ],
+      "order": 2
+    },
+    {
+      "id": "fd1b7d96-2638-419f-80b0-7ad8f7ecb13d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 122,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4197.123746830066,
+        "y": 913.9910063406935,
+        "labelText": "万民堂",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "万民堂"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 9
+    },
+    {
+      "id": "1988a157-4b00-434b-8131-7798386b0c75",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 121,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4212.60424421751,
+        "y": 891.7239255538478,
+        "labelText": "飞云商会",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "飞云商会"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 6
+    },
+    {
+      "id": "0a922fab-2e65-4b08-a986-5c9b9929935a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 118,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4229.519517897229,
+        "y": 870.5262322248363,
+        "labelText": "南十字船队",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "南十字船队"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 12
+    },
+    {
+      "id": "e94051bc-7994-4f5f-88ef-a98b8858eecf",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 285,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4350.395182956271,
+        "y": 1374.5276934087049,
+        "labelText": "天狗",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "天狗"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 13
+    },
+    {
+      "id": "2131c1aa-5ec5-4e09-a6f1-87dcc250803f",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 130,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4952.420256178733,
+        "y": 1113.0118027468588,
+        "labelText": "长野原烟花店",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "长野原烟花店"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 13
+    },
+    {
+      "id": "ecb6cdde-bbf9-47f9-978a-94ed42b543db",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 131,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4953.131414359618,
+        "y": 1140.1220026755268,
+        "labelText": "秋沙钱汤",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "秋沙钱汤"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 13
+    },
+    {
+      "id": "35481f32-f6b3-4c90-b038-00da42577e40",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 294,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4335.170390481782,
+        "y": 1361.366037227933,
+        "labelText": "人偶",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "人偶"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 11
+    },
+    {
+      "id": "b3ac92a1-cdc1-43d4-baa2-3440b42e2f32",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 150,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4828.86247756052,
+        "y": 1431.8072388781316,
+        "labelText": "祖拜尔剧场",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "祖拜尔剧场"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 13
+    },
+    {
+      "id": "e8bfbcdc-2896-4d7d-98fa-90f3c1b1cc3d",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 149,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4808.818590498634,
+        "y": 1450.0750049588798,
+        "labelText": "阿如村",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "阿如村"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 17
+    },
+    {
+      "id": "a4c68e19-187f-4efd-9cd4-3db2e219af68",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 148,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4787.613609577224,
+        "y": 1466.9811420177496,
+        "labelText": "化城郭",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "化城郭"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 15
+    },
+    {
+      "id": "27682bb6-7f1a-4bc8-9d43-206af74e2358",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 273,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4168.380572724878,
+        "y": 1308.28978810545,
+        "labelText": "蛇之七变",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "蛇之七变"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "4c10c9fe-a4a4-4238-a610-497dc7bd206d",
+          "title": "元素"
+        },
+        {
+          "id": "549249a0-2b40-4170-89ae-14cd746bdec6",
+          "title": "武器"
+        },
+        {
+          "id": "fc5737ab-8994-4573-ae72-2ba0ac095fe4",
+          "title": "职业"
+        },
+        {
+          "id": "d301f0e0-0d46-4d20-a4b4-fb6cf8e5d27f",
+          "title": "功能"
+        }
+      ]
+    },
+    {
+      "id": "5d4e5554-a6b1-40e0-ae75-a175092f55cd",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 162,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4332.839884375149,
+        "y": 783.6240011809839,
+        "labelText": "梅洛彼得堡",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "梅洛彼得堡"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 7
+    },
+    {
+      "id": "47941557-848f-4818-89f9-43d4d45f4c4a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 160,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4356.622418970097,
+        "y": 770.5909764219084,
+        "labelText": "千织屋",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "千织屋"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 13
+    },
+    {
+      "id": "51d5b25b-b820-475f-baf0-df8148c2f4de",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 132,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4952.0531520492605,
+        "y": 1167.2200844622632,
+        "labelText": "狛荷屋",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "狛荷屋"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 15
+    },
+    {
+      "id": "a71d3a0b-f2b1-4f4b-bb86-908442c17e6c",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 161,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4381.212686104534,
+        "y": 759.1547424094542,
+        "labelText": "蒸汽鸟报",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "蒸汽鸟报"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 11
+    },
+    {
+      "id": "23672e70-78f5-4114-8ad7-79171b92800f",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 152,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4406.503621698441,
+        "y": 749.3650916028382,
+        "labelText": "德波大饭店",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "德波大饭店"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 15
+    },
+    {
+      "id": "5b324b07-f4c9-4104-a090-7c4463a034e8",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 271,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4157.920297899578,
+        "y": 1283.268770206296,
+        "labelText": "神之心",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "神之心"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "31cb2494-a37a-47e5-9a79-af4370a53a6f",
+          "title": "元素"
+        },
+        {
+          "id": "37af7ac7-20ac-4748-850b-886339d6a2a8",
+          "title": "武器"
+        },
+        {
+          "id": "fc05bcc1-add9-418b-8b51-b6e3398a64a2",
+          "title": "职业"
+        },
+        {
+          "id": "5bdf5b46-0b6f-4ec6-a69c-c364c79540bd",
+          "title": "功能"
+        }
+      ],
+      "order": "1"
+    },
+    {
+      "id": "14f05f48-fe87-4f3f-9f6d-10796449c7d4",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 270,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4136.722257296066,
+        "y": 1204.8426128575495,
+        "labelText": "月之轮",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "月之轮"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "19da24eb-db28-4e9d-808c-3dbf2977063d",
+          "title": "元素"
+        },
+        {
+          "id": "6fac973d-f189-4823-b10e-53224a296389",
+          "title": "武器"
+        },
+        {
+          "id": "ab7d8b51-6207-49f1-8267-7ad97c4b387f",
+          "title": "职业"
+        },
+        {
+          "id": "c733844a-c80e-44ad-a7ed-c7e54085c07a",
+          "title": "功能"
+        }
+      ]
+    },
+    {
+      "id": "7aeda37a-926c-4269-bc87-b51ba48127e1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 268,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4133.153069505692,
+        "y": 1177.9589824359039,
+        "labelText": "三相月临",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "三相月临"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "8412768f-ec9e-4364-b4a8-2d6831c2e12b",
+          "title": "元素"
+        },
+        {
+          "id": "9cb773f0-305c-42cc-a5fe-c488e5dd9fce",
+          "title": "武器"
+        },
+        {
+          "id": "ceb70609-95dd-48d6-9d4b-c1e1a77275d3",
+          "title": "职业"
+        },
+        {
+          "id": "dc345b90-5f69-430c-a97a-3e465ed14f42",
+          "title": "功能"
+        }
+      ]
+    },
+    {
+      "id": "1b028f47-56e8-4b33-b22b-8c9f22f139b7",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 266,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4131.36458214418,
+        "y": 1150.898494652268,
+        "labelText": "古龙大权",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "古龙大权"
+      },
+      "states": [],
+      "attributes": [
+        {
+          "id": "d8df02f4-15d3-40a6-87c9-4fe5cfae4e66",
+          "title": "元素"
+        },
+        {
+          "id": "f1e4c501-7682-45b3-ad36-3649a07c6881",
+          "title": "武器"
+        },
+        {
+          "id": "73512f9a-fa77-427a-8f23-1c5326639f52",
+          "title": "职业"
+        },
+        {
+          "id": "5fa5aed0-f4ef-49d0-a993-6ba49346ab68",
+          "title": "功能"
+        }
+      ]
+    },
+    {
+      "id": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 296,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "hanging",
+        "labelOffsetY": 6,
+        "labelLeading": -6,
+        "x": 4320.846730983715,
+        "y": 1347.228983861141,
+        "labelText": "妖精",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "妖精"
+      },
+      "states": [],
+      "attributes": [],
+      "order": 33
+    },
+    {
+      "id": "efd9af08-f0dc-4042-9cce-1f397e852cc6",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 0,
+        "x": 4654.163890180494,
+        "y": 1421.0213640542534,
+        "labelText": "琅玕",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "琅玕"
+      },
+      "states": []
+    },
+    {
+      "id": "1c206ff8-b3eb-4a58-bb9d-50815bfa9265",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 279,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 0,
+        "x": 4746.939232431939,
+        "y": 780.9981391908623,
+        "labelText": "海螺帮",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [],
+        "title": "海螺帮"
+      },
+      "states": []
+    },
+    {
+      "id": "513eb4ab-cbb0-47bd-8e3e-e9be902fa0b1",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 0,
+        "x": 4898.569654907045,
+        "y": 932.6939201973305,
+        "labelText": "皇家军事学院",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "皇家军事学院"
+      },
+      "states": []
+    },
+    {
+      "id": "70d95463-0e96-4c02-ad25-d76c5a940055",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 295,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 0,
+        "x": 4307.486568543692,
+        "y": 1332.1780849216,
+        "labelText": "狐妖",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "狐妖"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "10.9"
+    },
+    {
+      "id": "e5355a13-736d-46d5-abf5-c5d35f5c8a91",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 24,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 0,
+        "x": 4432.38511101669,
+        "y": 741.2646473681101,
+        "labelText": "枫丹廷",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "枫丹廷"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "0.8"
+    },
+    {
+      "id": "2c71c308-1ec4-4e56-9b8d-4a8acbfe74bc",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4328.068514876542,
+        "y": 1488.1863342722688,
+        "labelText": "凤仙",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "凤仙"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "1"
+    },
+    {
+      "id": "4f40e5de-c07d-4396-952a-3971ba740128",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4305.396729470486,
+        "y": 1473.304841315164,
+        "labelText": "矮灵",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "矮灵"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "2"
+    },
+    {
+      "id": "ca699161-a386-4b8d-804a-ed40d04ff95e",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4283.755709208228,
+        "y": 1456.9605784642695,
+        "labelText": "树妖",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "树妖"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "3"
+    },
+    {
+      "id": "59856eb4-aa3b-414d-82ea-c8a7a9d815ab",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4263.23967738195,
+        "y": 1439.224707348541,
+        "labelText": "兽怪",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "兽怪"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "4"
+    },
+    {
+      "id": "55dfb9c7-b9c5-431a-849b-68a46e0664e8",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4243.937959173079,
+        "y": 1420.1744485493555,
+        "labelText": "雪精",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "雪精"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "5"
+    },
+    {
+      "id": "4062208a-7a0e-469b-90cf-09a0ba1488b2",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 297,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4225.934592737506,
+        "y": 1399.8927453882038,
+        "labelText": "霜精",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "霜精"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "6"
+    },
+    {
+      "id": "0ee64820-ce91-4845-a357-4f5e5d58f878",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 298,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4209.307963310094,
+        "y": 1378.4679027980212,
+        "labelText": "灯之妖精",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "灯之妖精"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "7"
+    },
+    {
+      "id": "e695baeb-3cee-43df-b6b6-a774a6dbf3c0",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4194.130461921559,
+        "y": 1355.9932028504886,
+        "labelText": "海妖",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "海妖"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "8"
+    },
+    {
+      "id": "fc1010bf-8cde-40b4-af57-dec1d8277abf",
+      "type": "circle",
+      "style": {
+        "size": 20,
+        "zIndex": 1,
+        "labelFontSize": 12,
+        "labelPlacement": "bottom",
+        "labelBackgroundHeight": 12,
+        "labelLineHeight": 14,
+        "labelTextAlign": "center",
+        "labelPadding": [
+          0,
+          0
+        ],
+        "labelMaxWidth": 180,
+        "labelTextBaseline": "top",
+        "labelOffsetY": 3,
+        "x": 4180.468170213646,
+        "y": 1332.5664986132622,
+        "labelText": "谶鸟",
+        "fill": "#FFD700",
+        "z": 0
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "title": "谶鸟"
+      },
+      "states": [],
+      "attributes": [],
+      "order": "9"
+    }
+  ],
+  "edges": [
+    {
+      "id": "b46cd2bc-f397-4cce-9f28-be44f82e6d21",
+      "source": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "target": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 277,
+        "sourceNode": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+        "targetNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "91961448-92e6-46c7-9588-c76430b01071",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 298,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "641d1be1-8994-4e8e-992d-92e482d68041",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 50,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "1d377177-fa4e-448d-87df-e28da22e3c56",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 150,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "45cd99be-d90f-496f-9f2b-3e8386045463",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 167,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "e54ef801-5d51-46de-94ea-a8f8eba9de2f",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 279,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c8f4198b-82ef-401d-a340-a59e0d4ee6ca",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 184,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "a30b215c-db03-437c-b294-23d619312c5c",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "a618c940-7776-45e5-9740-1661dd43df65",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 50,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "a618c940-7776-45e5-9740-1661dd43df65",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f6db591e-a350-4698-91cd-8c10f7030bf5",
+      "source": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+      "target": "0160e74d-449f-4edc-b7c0-92d702a810f1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 298,
+        "sourceNode": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+        "targetNode": "0160e74d-449f-4edc-b7c0-92d702a810f1",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "a3c8e067-3683-42d0-b359-eab09b09f7f2",
+      "source": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+      "target": "90d80cb7-81d7-4d50-8b54-811ad5ec06c9",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 298,
+        "sourceNode": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+        "targetNode": "90d80cb7-81d7-4d50-8b54-811ad5ec06c9",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "73b28249-c3e5-48c4-9987-22f0efb68e05",
+      "source": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "target": "4bcfa3ea-ebab-42d0-9ff5-485b8393a636",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 281,
+        "sourceNode": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+        "targetNode": "4bcfa3ea-ebab-42d0-9ff5-485b8393a636",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "b29cbd87-1d09-42e1-8556-e8bd37d6d9e4",
+      "source": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "target": "c1ddd228-73f7-4499-805b-8b235adce061",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 186,
+        "sourceNode": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+        "targetNode": "c1ddd228-73f7-4499-805b-8b235adce061",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9efb7dc9-07ae-4152-b4ef-581d766138b1",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "f5b719a7-d04d-4ad2-9869-cee73ba86211",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 299,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "f5b719a7-d04d-4ad2-9869-cee73ba86211",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f81c0938-82e1-44e1-9753-45c3781e6a9d",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "4e603aca-92a3-45df-adaa-aa95a1783680",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 113,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "4e603aca-92a3-45df-adaa-aa95a1783680",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ce07be92-d46b-4690-837e-22ec7211ba3e",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 190,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "e8b79f34-09ad-4748-adb0-e8e9f1d85617",
+      "source": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "target": "860bfa89-b352-4e5c-8820-48685fa3b1fd",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 190,
+        "sourceNode": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+        "targetNode": "860bfa89-b352-4e5c-8820-48685fa3b1fd",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "d4c3c8a6-c263-469a-90dc-3b8021e56a4f",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "48bfff1c-e51b-4878-9909-86b62b2b29ca",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 114,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "48bfff1c-e51b-4878-9909-86b62b2b29ca",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "07caa8e5-5153-43bd-a487-1dcdbb1027fc",
+      "source": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+      "target": "00c28cc4-da35-4599-ae1b-43ffd2cf8cc1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 126,
+        "sourceNode": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+        "targetNode": "00c28cc4-da35-4599-ae1b-43ffd2cf8cc1",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "88b864b3-0edb-4979-a49d-12d8d6922d9d",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "631fa0ed-e4cd-47f8-94f7-96b3c316d169",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 123,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "631fa0ed-e4cd-47f8-94f7-96b3c316d169",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "b78cd8d2-cea3-4b42-aeaf-8a004c80e20e",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "8b10256f-5988-4d81-a349-d7c1f7a40582",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 124,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "8b10256f-5988-4d81-a349-d7c1f7a40582",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ecbb4831-f13b-4828-b316-6c949ae01099",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 125,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "403ffa73-0a2e-429a-9d1e-250ad03889bd",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "f2d0dfe1-be7e-4a83-a1b3-f0602751f9e4",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 122,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "f2d0dfe1-be7e-4a83-a1b3-f0602751f9e4",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c54ae473-bdb9-4398-b3a6-84cb334769a4",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "b4fe42d3-d2f1-4233-9019-a63ed5402574",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 127,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "b4fe42d3-d2f1-4233-9019-a63ed5402574",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "6202bbe3-2f44-4901-8956-a9819e4a5375",
+      "source": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "target": "8da8e3cd-104e-49d9-84c9-95a4cb826bf8",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "sourceNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "targetNode": "8da8e3cd-104e-49d9-84c9-95a4cb826bf8",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "dae77a4d-a2c1-4a0a-b22e-14cec166f736",
+      "source": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "target": "21834f8c-4ab0-43f2-a95f-2c3197e093c7",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "sourceNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "targetNode": "21834f8c-4ab0-43f2-a95f-2c3197e093c7",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "65f347ab-a4ca-4a3f-945e-23d2728e7b5c",
+      "source": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "target": "9f2aa31a-6841-4e39-94d2-f157e192cd77",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "sourceNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "targetNode": "9f2aa31a-6841-4e39-94d2-f157e192cd77",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f811c428-f520-436f-98ea-982df64d25c1",
+      "source": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "target": "2accc503-b32b-4100-80d4-000d7a1c1d13",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "sourceNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "targetNode": "2accc503-b32b-4100-80d4-000d7a1c1d13",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "111ff907-f8d7-43d4-96a4-7e379ab3f196",
+      "source": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "target": "7bfae956-bf06-4e0e-a913-6a17350ac77b",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "sourceNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "targetNode": "7bfae956-bf06-4e0e-a913-6a17350ac77b",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "94aa9c65-f037-438f-839b-0919b3f0607e",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "4a6d5c2c-c026-43d4-96e6-07162d4d2c18",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 128,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "4a6d5c2c-c026-43d4-96e6-07162d4d2c18",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "a4317f71-9673-4972-845e-be9be29b27a6",
+      "source": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "target": "458dfe55-95a6-4180-84f7-83f51f80f61f",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "sourceNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "targetNode": "458dfe55-95a6-4180-84f7-83f51f80f61f",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "d943cde2-b31a-42f8-8035-c392c217d8f7",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "3d194906-c780-404d-85ae-4501d4487417",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 51,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "3d194906-c780-404d-85ae-4501d4487417",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "51691dd9-cfe8-4da6-8638-54e776eccd5b",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 50,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [
+          ""
+        ],
+        "mark_media": [],
+        "createtime": "2025-11-22T08:23:59.377Z"
+      },
+      "states": []
+    },
+    {
+      "id": "46e98459-cea0-4b5e-996c-fec8a3904b46",
+      "source": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+      "target": "4a0f89e2-d40d-48c9-b279-59eea54a0b73",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 298,
+        "sourceNode": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+        "targetNode": "4a0f89e2-d40d-48c9-b279-59eea54a0b73",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f05b4e53-142b-4028-9fed-d2e429b9b883",
+      "source": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "target": "43c0c2db-075b-46b9-9ee9-e54af2c7a5c0",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 187,
+        "sourceNode": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+        "targetNode": "43c0c2db-075b-46b9-9ee9-e54af2c7a5c0",
+        "stroke": "#99add1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c59a471d-c89b-48f2-8ccf-41aa8fdfcddd",
+      "source": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "target": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 277,
+        "sourceNode": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+        "targetNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "eab46ec5-d1b3-4c4f-b2a3-a91e17ef77b7",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "d6216a15-9fb3-45b3-bb84-856f2c6b226d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 194,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "d6216a15-9fb3-45b3-bb84-856f2c6b226d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9c2c5da9-cab0-4bde-bd47-86c5b91f00a4",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "9ea97925-27d7-4edd-9f5b-e8963492a14b",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 211,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "9ea97925-27d7-4edd-9f5b-e8963492a14b"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "642cfe65-b5c5-44ba-bc28-2965b0bd2a09",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "fe6e337a-7585-47b9-8db9-4d181b590fd4",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 212,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "fe6e337a-7585-47b9-8db9-4d181b590fd4"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "92e16c29-28db-4a91-afd0-200fc16e9a45",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "9ec745cd-77a3-4460-bd0f-8b7f93268273",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 195,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "9ec745cd-77a3-4460-bd0f-8b7f93268273"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c55be3bd-49c9-48fc-9df5-435a9d959f12",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 198,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "96ac726a-44bb-43eb-9891-7e2a8f2199ed",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "a1a33a4e-da94-49d5-80d6-dc8a0553b6b3",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 218,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "a1a33a4e-da94-49d5-80d6-dc8a0553b6b3"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "b93947d6-c781-4e7e-81d7-f26e8cb28e13",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "e36b8db9-f587-4e75-8726-793693ccd967",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 219,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "e36b8db9-f587-4e75-8726-793693ccd967"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "e73559cb-cb0e-457b-bbc8-5f4e82033415",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "bf1adda0-f502-4f1c-a5d9-484171a255a6",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 224,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "bf1adda0-f502-4f1c-a5d9-484171a255a6"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "8d2be00c-076e-404f-88eb-fcce42a5c195",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "958f1b47-962c-4da8-9e01-52242feeddf2",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 223,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "958f1b47-962c-4da8-9e01-52242feeddf2"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "be5060e2-70dc-46e8-a70d-9a804fe87389",
+      "source": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+      "target": "ff98324c-ba16-435f-9fde-4c1e17e934de",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 216,
+        "sourceNode": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+        "targetNode": "ff98324c-ba16-435f-9fde-4c1e17e934de"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "3e826e59-9cbc-4419-8014-505eba43bf29",
+      "source": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+      "target": "d1fe2f40-286c-4bd5-a485-9acb412ff027",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 217,
+        "sourceNode": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+        "targetNode": "d1fe2f40-286c-4bd5-a485-9acb412ff027"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "aaf8f297-3850-4c75-a6af-750e7147d470",
+      "source": "fe6e337a-7585-47b9-8db9-4d181b590fd4",
+      "target": "2994fd7c-0350-4b11-bfc7-0d1e2c5d5631",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 213,
+        "sourceNode": "fe6e337a-7585-47b9-8db9-4d181b590fd4",
+        "targetNode": "2994fd7c-0350-4b11-bfc7-0d1e2c5d5631"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "e9c13137-c97d-42be-ac89-3c55eff4cc27",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "states": [],
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 134,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+        "stroke": "#99add1"
+      }
+    },
+    {
+      "id": "dd79beb1-4f87-4199-8dee-6f00bb492431",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "states": [],
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 135,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+        "stroke": "#99add1"
+      }
+    },
+    {
+      "id": "b75315cb-db88-4413-bc85-88647f0ad1da",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 134,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "e017286f-3678-438b-9019-ddfc28d18e11"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ea27a8ea-2fe2-41da-b95c-8e8416b6bcd3",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "c690f01c-0c22-4e5e-9d20-422db5817e89",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 163,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "c690f01c-0c22-4e5e-9d20-422db5817e89"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "7dc1dc15-faa7-45b9-a937-19bcc53af327",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "29c5046d-5bb4-429f-81a0-8d9db1e50ed2",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 162,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "29c5046d-5bb4-429f-81a0-8d9db1e50ed2"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "fb069ad8-6c8c-4e2f-94c6-a892f5c40e48",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "fef51bc3-017e-4b51-9a37-5ef3c7df4e17",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 222,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "fef51bc3-017e-4b51-9a37-5ef3c7df4e17"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "be4e2002-3143-4637-b422-847f163287ac",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "ae3126b1-7870-42fa-94ed-3b31bef0e5af",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 139,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "ae3126b1-7870-42fa-94ed-3b31bef0e5af"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f5bf5fb8-9ddb-432f-b47f-a66f735cf67a",
+      "source": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "target": "51e566e9-47e4-4d8d-8685-124efa2fb9ab",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 135,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+        "targetNode": "51e566e9-47e4-4d8d-8685-124efa2fb9ab"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ac324956-560a-4d0c-8ca9-a79ccaae5f83",
+      "source": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "target": "7e950ae4-db22-4261-a15a-16b093008c44",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 135,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+        "targetNode": "7e950ae4-db22-4261-a15a-16b093008c44"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c957ccec-ce5b-464c-8398-436c4ff9bfda",
+      "source": "7e950ae4-db22-4261-a15a-16b093008c44",
+      "target": "d8cfae96-5a2a-4247-ac32-7e500c1cd11e",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 146,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "7e950ae4-db22-4261-a15a-16b093008c44",
+        "targetNode": "d8cfae96-5a2a-4247-ac32-7e500c1cd11e"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ed1f396c-9520-4968-aae1-e0b35f54cc21",
+      "source": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "target": "5abab0b5-6e47-46aa-b6c5-78422fb3125f",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 135,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+        "targetNode": "5abab0b5-6e47-46aa-b6c5-78422fb3125f"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "6d5b47f8-b934-4e75-b959-edc987038ff1",
+      "source": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "target": "7492afbf-20b5-4db6-84c9-2fe25cf54986",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 135,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+        "targetNode": "7492afbf-20b5-4db6-84c9-2fe25cf54986"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "e3680d18-db46-419e-8e65-33bb7f607a67",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "946db52a-dd3c-4d11-98f4-a2caf3fd6a3a",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 140,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "946db52a-dd3c-4d11-98f4-a2caf3fd6a3a"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "175c65c5-c4a7-4cea-adf6-4674beb1d571",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "fee5ef28-916f-4dd4-8567-e8cd5613147a",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 233,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "fee5ef28-916f-4dd4-8567-e8cd5613147a"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "0f4451b5-9a9d-4ed8-86ba-f0968f25fd90",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "86a2022b-5d3a-4760-9219-ba18271b7254",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 138,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "86a2022b-5d3a-4760-9219-ba18271b7254"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "e081a941-968f-4194-afaf-3e4a0c111419",
+      "source": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "target": "ed4c84ca-3dde-467e-8c69-68122e10892d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 184,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+        "targetNode": "ed4c84ca-3dde-467e-8c69-68122e10892d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "d1eca254-8384-427e-8cd3-35642d8f155e",
+      "source": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "target": "e03846e0-bb86-4fa9-a177-5891bd382cc3",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 168,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "targetNode": "e03846e0-bb86-4fa9-a177-5891bd382cc3"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "8a53c940-4e7d-4966-b3bb-382de8c87693",
+      "source": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "target": "8f0a8960-e4a5-4422-9a56-6e4fe72226da",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 169,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "targetNode": "8f0a8960-e4a5-4422-9a56-6e4fe72226da"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "4d82a087-422c-468a-994d-b59204a4041d",
+      "source": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "target": "d6c876e1-9816-4d44-9235-3ddc30180946",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 170,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "targetNode": "d6c876e1-9816-4d44-9235-3ddc30180946"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "bdb4b846-6311-4efc-80b8-2ced742f38fd",
+      "source": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "target": "56928a5c-3e67-4736-9eca-85db0fcd03ee",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 171,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "targetNode": "56928a5c-3e67-4736-9eca-85db0fcd03ee"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "703db512-3102-4da0-bcbf-5592bf9b2e26",
+      "source": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "target": "6e743a6a-6205-4d2f-9640-f27a0df7cb1a",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 172,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "targetNode": "6e743a6a-6205-4d2f-9640-f27a0df7cb1a"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "007936a1-b92c-4092-8676-b4b65ff3724a",
+      "source": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "target": "5099bb7f-3073-4af4-89d2-ff991c3f267d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 167,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+        "targetNode": "5099bb7f-3073-4af4-89d2-ff991c3f267d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "3101f6e9-16ef-4ea4-8fa6-ed6eb5ebf87a",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "81fbf609-7726-4ae7-822d-f20844213c1c",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 288,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "81fbf609-7726-4ae7-822d-f20844213c1c"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "da19f372-202a-4c42-a7fe-8672b8b66407",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "13a2a746-930a-4f6c-80ab-59b5327dbfb8",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 291,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "13a2a746-930a-4f6c-80ab-59b5327dbfb8"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "b78a10b8-91cc-40cf-96a5-b6fe773cbe5b",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "c99011f6-aee5-4d38-abad-5a675ad18a07",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 289,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "c99011f6-aee5-4d38-abad-5a675ad18a07"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "96f0d3cf-ab52-45f0-858c-6e29def2974b",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "cf94fee1-11bd-4e57-bdab-25502c95ea14",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 164,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "cf94fee1-11bd-4e57-bdab-25502c95ea14"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "29e8702a-9a7c-40fe-86ac-c2d7b4436185",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "de181c19-8112-4a8d-8a0c-5353581e8645",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 50,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "de181c19-8112-4a8d-8a0c-5353581e8645"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "cce879e9-68f3-4f46-b740-1fe2fc6935c1",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "fcddc9d4-ace8-4774-81d5-97704b0cf418",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 274,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "fcddc9d4-ace8-4774-81d5-97704b0cf418"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c2a2f25c-b327-45cc-b0ad-c78a62c3ad36",
+      "source": "fcddc9d4-ace8-4774-81d5-97704b0cf418",
+      "target": "3aa2f640-2928-4484-8901-0b2991271be1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 274,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "fcddc9d4-ace8-4774-81d5-97704b0cf418",
+        "targetNode": "3aa2f640-2928-4484-8901-0b2991271be1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "12703eef-8fa9-4d0a-bfd1-e30308c04410",
+      "source": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "target": "e27a03d4-ef6e-4171-bb52-3d52bc14ea87",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 190,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+        "targetNode": "e27a03d4-ef6e-4171-bb52-3d52bc14ea87"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "20d9272f-b84e-4d46-8534-680e738a812c",
+      "source": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "target": "932b006d-dd23-474b-9715-59f6f19ec130",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 190,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+        "targetNode": "932b006d-dd23-474b-9715-59f6f19ec130"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f8b04e98-bbac-416b-b327-b82aed4d9f01",
+      "source": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "target": "ac618cb2-c7d9-4dfb-b81d-328347c97d56",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 279,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "targetNode": "ac618cb2-c7d9-4dfb-b81d-328347c97d56"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "de5bb488-1c5d-4a9c-9cc9-f69d9210222d",
+      "source": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "target": "8331ea2c-01be-43f2-adda-5c2b340d3a3d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 279,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "targetNode": "8331ea2c-01be-43f2-adda-5c2b340d3a3d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "49b73d24-b1eb-4d2a-a277-ba541a9f387b",
+      "source": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "target": "5f8e1d29-35fa-4cb5-b1fc-0c06b5dc883d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 279,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "targetNode": "5f8e1d29-35fa-4cb5-b1fc-0c06b5dc883d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "578b8c8a-179d-4e87-a4a7-b27a14f4cee0",
+      "source": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "target": "dcabe319-583f-4bce-bb1b-0e319393e357",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 279,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "targetNode": "dcabe319-583f-4bce-bb1b-0e319393e357"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "3f7ef515-238d-4c18-a87a-794b72884527",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "f136a4dc-512c-4dad-b736-c476b2ceaccd",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 145,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "f136a4dc-512c-4dad-b736-c476b2ceaccd"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "fdeec627-2ed1-4ee4-9640-04d20a964f3b",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "0c2b9986-fc30-4648-986a-e889bc43e45c",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 275,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "0c2b9986-fc30-4648-986a-e889bc43e45c"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "7954b904-2d54-4e3f-b7b2-fe36513057ae",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "6e66927e-8dad-447f-9034-40983cd460df",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 276,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "6e66927e-8dad-447f-9034-40983cd460df"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "0805e871-ebe1-47d0-ab08-53ab7a5e684a",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "9a9aa70d-ccbf-44ff-aa7d-6c7654ac76c6",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 290,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "9a9aa70d-ccbf-44ff-aa7d-6c7654ac76c6"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "d468de96-c090-4c80-a1b8-64f3403f577c",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "fc74d338-4451-49e3-bf49-b79116c28cad",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 287,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "fc74d338-4451-49e3-bf49-b79116c28cad"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "268be1ba-34db-4cdd-8656-bd5e8f1fbead",
+      "source": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "target": "516a6be2-ca26-4cb3-ad6a-b7a270dec00d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 282,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "targetNode": "516a6be2-ca26-4cb3-ad6a-b7a270dec00d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "31c5d6ee-7ec4-408e-85eb-a0f2d1e87793",
+      "source": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "target": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 277,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+        "targetNode": "446498aa-6772-46f9-9f30-8b04b3fe6410"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9268e524-722a-4522-9ba7-32a7b98d0f7d",
+      "source": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+      "target": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 259,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+        "targetNode": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9b54a5c9-dcf3-4c42-8712-102256a16f74",
+      "source": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+      "target": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 261,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+        "targetNode": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "4beb1086-296b-4eff-b42b-c98fe7a162d6",
+      "source": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+      "target": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 301,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+        "targetNode": "081bffb7-66c1-4e1b-96a8-690b4e0cbced"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c98a3b3b-661e-46ad-9c8a-36e541300e76",
+      "source": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "target": "8efb18b5-6a01-47ec-b290-a10f75276bfc",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 301,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+        "targetNode": "8efb18b5-6a01-47ec-b290-a10f75276bfc"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "d518e354-6a5d-44a5-ad36-4e939a7c038e",
+      "source": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "target": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 277,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+        "targetNode": "feab972b-787d-4c39-be4a-431eeec4e3ca"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "2b582ff7-b1ea-45aa-b58f-6102d93a5f31",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "ffaf631d-a608-4f31-a7aa-076ea2247d7b",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 29,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "ffaf631d-a608-4f31-a7aa-076ea2247d7b"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "779e41fc-2d88-4ba5-aadc-a51062d89a93",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "626cfd67-d1da-4659-9d2a-85a9a8c31037",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 119,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "626cfd67-d1da-4659-9d2a-85a9a8c31037"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9d3bf227-78ed-40aa-9f04-c9c5ae324273",
+      "source": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+      "target": "484a33b1-9b0d-4aa0-a574-3088797f671b",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 303,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+        "targetNode": "484a33b1-9b0d-4aa0-a574-3088797f671b"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "d1fc42af-6740-4552-ac6d-1b8b42bfe75a",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "fd1b7d96-2638-419f-80b0-7ad8f7ecb13d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 121,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "fd1b7d96-2638-419f-80b0-7ad8f7ecb13d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "f6559953-0262-4b35-87ea-144b0eb64e5d",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "1988a157-4b00-434b-8131-7798386b0c75",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 120,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "1988a157-4b00-434b-8131-7798386b0c75"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "114fca8c-90b5-4953-a0e3-754061d94f75",
+      "source": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "target": "0a922fab-2e65-4b08-a986-5c9b9929935a",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 117,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+        "targetNode": "0a922fab-2e65-4b08-a986-5c9b9929935a"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "851bf213-68ab-41a4-8f06-9405dda1b0ba",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "e94051bc-7994-4f5f-88ef-a98b8858eecf",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 284,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "e94051bc-7994-4f5f-88ef-a98b8858eecf"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "90a8aa1f-0f4a-44ba-abcb-f81e828c124f",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "2131c1aa-5ec5-4e09-a6f1-87dcc250803f",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 129,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "2131c1aa-5ec5-4e09-a6f1-87dcc250803f"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9fbda0f4-9c5f-475f-b657-26d3384d6b49",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "ecb6cdde-bbf9-47f9-978a-94ed42b543db",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 130,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "ecb6cdde-bbf9-47f9-978a-94ed42b543db"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "4e6fb902-2927-44bf-8aad-dc7a03516d4c",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "35481f32-f6b3-4c90-b038-00da42577e40",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 293,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "35481f32-f6b3-4c90-b038-00da42577e40"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c3bb3e3e-7f8e-4ba5-9c75-bc155149a84b",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "b3ac92a1-cdc1-43d4-baa2-3440b42e2f32",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 149,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "b3ac92a1-cdc1-43d4-baa2-3440b42e2f32"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "7f963faf-3f64-4ee7-bfb2-8c3e9892287d",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "e8bfbcdc-2896-4d7d-98fa-90f3c1b1cc3d",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 148,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "e8bfbcdc-2896-4d7d-98fa-90f3c1b1cc3d"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "80cb5905-f5a5-479d-88a0-5678718ee2d8",
+      "source": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "target": "a4c68e19-187f-4efd-9cd4-3db2e219af68",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 147,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "e017286f-3678-438b-9019-ddfc28d18e11",
+        "targetNode": "a4c68e19-187f-4efd-9cd4-3db2e219af68"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "87a80439-f555-404a-8fbe-6fa80ad2fe0b",
+      "source": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254",
+      "target": "27682bb6-7f1a-4bc8-9d43-206af74e2358",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 272,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254",
+        "targetNode": "27682bb6-7f1a-4bc8-9d43-206af74e2358"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "5d30e6b8-9a31-4553-945b-364026ed2db0",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "5d4e5554-a6b1-40e0-ae75-a175092f55cd",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 161,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "5d4e5554-a6b1-40e0-ae75-a175092f55cd"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "724a5fd6-b1c4-4a49-b327-f5e1e36d30f2",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "47941557-848f-4818-89f9-43d4d45f4c4a",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 159,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "47941557-848f-4818-89f9-43d4d45f4c4a"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "099d1f7d-0c26-4510-ad9d-7743f040096a",
+      "source": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "target": "51d5b25b-b820-475f-baf0-df8148c2f4de",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 131,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+        "targetNode": "51d5b25b-b820-475f-baf0-df8148c2f4de"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "1a3e0a93-6a7d-4665-a57e-023ada756cb5",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "a71d3a0b-f2b1-4f4b-bb86-908442c17e6c",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 160,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "a71d3a0b-f2b1-4f4b-bb86-908442c17e6c"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "2646256d-e47a-440f-bd05-ea5dc1f9e3d8",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "23672e70-78f5-4114-8ad7-79171b92800f",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 151,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "23672e70-78f5-4114-8ad7-79171b92800f"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "9bf43ee6-2143-4ae5-b6c0-4c277ccbe263",
+      "source": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "target": "14f05f48-fe87-4f3f-9f6d-10796449c7d4",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 301,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+        "targetNode": "14f05f48-fe87-4f3f-9f6d-10796449c7d4"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "7218a128-f9b6-442d-895d-84e65670fc95",
+      "source": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "target": "7aeda37a-926c-4269-bc87-b51ba48127e1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 301,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+        "targetNode": "7aeda37a-926c-4269-bc87-b51ba48127e1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "a4ae8e65-bc2f-40c1-8233-5ee81c30144a",
+      "source": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "target": "1b028f47-56e8-4b33-b22b-8c9f22f139b7",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 301,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+        "targetNode": "1b028f47-56e8-4b33-b22b-8c9f22f139b7"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "2267c1ab-b43f-46ff-a4a3-299576c8cc9d",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "bea8d9da-d1d1-4650-a652-e1558d1c19ac",
+      "source": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+      "target": "5b324b07-f4c9-4104-a090-7c4463a034e8",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 270,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+        "targetNode": "5b324b07-f4c9-4104-a090-7c4463a034e8"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "1fe5da0f-1647-4662-9a3d-d531eefa53b9",
+      "source": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+      "target": "9aa6ed9f-ba0c-4ff4-ae17-d91ed1d63964",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 263,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+        "targetNode": "9aa6ed9f-ba0c-4ff4-ae17-d91ed1d63964"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "5ab1853e-abbc-4972-ad44-4bc9fc4f9255",
+      "source": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "target": "efd9af08-f0dc-4042-9cce-1f397e852cc6",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 50,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "targetNode": "efd9af08-f0dc-4042-9cce-1f397e852cc6"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c3eb4c52-d6a7-48ec-92aa-89f52c5b927c",
+      "source": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "target": "1c206ff8-b3eb-4a58-bb9d-50815bfa9265",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 279,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+        "targetNode": "1c206ff8-b3eb-4a58-bb9d-50815bfa9265"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "0edd90d2-5aa8-4218-a970-0a6195fa8497",
+      "source": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "target": "513eb4ab-cbb0-47bd-8e3e-e9be902fa0b1",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 190,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+        "targetNode": "513eb4ab-cbb0-47bd-8e3e-e9be902fa0b1"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "353f1bf1-de0f-48a5-a7d8-48395e1406a8",
+      "source": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "target": "70d95463-0e96-4c02-ad25-d76c5a940055",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 294,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "targetNode": "70d95463-0e96-4c02-ad25-d76c5a940055"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "6400a1b7-05cd-4d9f-99fb-ddd4fddf5a65",
+      "source": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "target": "e5355a13-736d-46d5-abf5-c5d35f5c8a91",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 150,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+        "targetNode": "e5355a13-736d-46d5-abf5-c5d35f5c8a91"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c4880f9e-a250-40c2-8d8f-1bde9c8756b5",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "2c71c308-1ec4-4e56-9b8d-4a8acbfe74bc",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "2c71c308-1ec4-4e56-9b8d-4a8acbfe74bc"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "0ecc219f-cf7f-488e-8b2e-bd44cc8431c3",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "4f40e5de-c07d-4396-952a-3971ba740128",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "4f40e5de-c07d-4396-952a-3971ba740128"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "270826a0-6a8a-450a-b97a-1cf1c46bb713",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "ca699161-a386-4b8d-804a-ed40d04ff95e",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "ca699161-a386-4b8d-804a-ed40d04ff95e"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ad0fc0ec-27b6-48d3-b193-b9b055b1d8dd",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "59856eb4-aa3b-414d-82ea-c8a7a9d815ab",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "59856eb4-aa3b-414d-82ea-c8a7a9d815ab"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "01b68703-79ab-43dd-8835-a8ad33298d2e",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "55dfb9c7-b9c5-431a-849b-68a46e0664e8",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "55dfb9c7-b9c5-431a-849b-68a46e0664e8"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "ddc4a549-f786-4917-b7de-808dcf863bf2",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "4062208a-7a0e-469b-90cf-09a0ba1488b2",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 296,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "4062208a-7a0e-469b-90cf-09a0ba1488b2"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "7fcecb14-b3ec-4ff7-935f-4c8342e34e38",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "0ee64820-ce91-4845-a357-4f5e5d58f878",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 297,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "0ee64820-ce91-4845-a357-4f5e5d58f878"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "c599cea5-6b26-446d-9f89-91f3dee1f705",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "e695baeb-3cee-43df-b6b6-a774a6dbf3c0",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "e695baeb-3cee-43df-b6b6-a774a6dbf3c0"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "1362ddde-3317-44e7-89e4-1f0867e25910",
+      "source": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "target": "fc1010bf-8cde-40b4-af57-dec1d8277abf",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 295,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+        "targetNode": "fc1010bf-8cde-40b4-af57-dec1d8277abf"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    },
+    {
+      "id": "dcc7803c-4119-4562-90eb-447afcaea207",
+      "source": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+      "target": "e74966d3-8cf4-4c2a-a4c5-7907b7ce3a69",
+      "style": {
+        "loop": false,
+        "endArrow": true,
+        "zIndex": 304,
+        "labelMaxWidth": 180,
+        "labelWordWrap": true,
+        "sourceNode": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+        "targetNode": "e74966d3-8cf4-4c2a-a4c5-7907b7ce3a69"
+      },
+      "data": {
+        "mark_text": [],
+        "mark_media": []
+      },
+      "states": []
+    }
+  ],
+  "combos": []
+}

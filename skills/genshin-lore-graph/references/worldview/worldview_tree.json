@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+    "label": "提瓦特世界",
+    "aliases": [
+      "提瓦特世界"
+    ],
+    "category": "circle",
+    "notes": [],
+    "child_count": 4,
+    "children": [
+      {
+        "relation": "包含/关联",
+        "id": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+        "label": "等级",
+        "aliases": [
+          "等级"
+        ],
+        "category": "circle",
+        "notes": [],
+        "child_count": 2,
+        "children": [
+          {
+            "relation": "包含/关联",
+            "id": "e74966d3-8cf4-4c2a-a4c5-7907b7ce3a69",
+            "label": "四星角色",
+            "aliases": [
+              "四星角色"
+            ],
+            "category": "circle",
+            "notes": [
+              "武器推荐",
+              "圣遗物推荐",
+              "天赋加点推荐",
+              "毕业面板推荐"
+            ],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "484a33b1-9b0d-4aa0-a574-3088797f671b",
+            "label": "五星角色",
+            "aliases": [
+              "五星角色"
+            ],
+            "category": "circle",
+            "notes": [
+              "武器推荐",
+              "圣遗物推荐",
+              "天赋加点推荐",
+              "毕业面板推荐"
+            ],
+            "child_count": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "relation": "包含/关联",
+        "id": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+        "label": "能力",
+        "aliases": [
+          "能力"
+        ],
+        "category": "circle",
+        "notes": [],
+        "child_count": 3,
+        "children": [
+          {
+            "relation": "包含/关联",
+            "id": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+            "label": "光界力",
+            "aliases": [
+              "光界力"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 4,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "1b028f47-56e8-4b33-b22b-8c9f22f139b7",
+                "label": "古龙大权",
+                "aliases": [
+                  "古龙大权"
+                ],
+                "category": "circle",
+                "notes": [
+                  "元素",
+                  "武器",
+                  "职业",
+                  "功能"
+                ],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "8efb18b5-6a01-47ec-b290-a10f75276bfc",
+                "label": "燃素力",
+                "aliases": [
+                  "燃素力"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "7aeda37a-926c-4269-bc87-b51ba48127e1",
+                "label": "三相月临",
+                "aliases": [
+                  "三相月临"
+                ],
+                "category": "circle",
+                "notes": [
+                  "元素",
+                  "武器",
+                  "职业",
+                  "功能"
+                ],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "14f05f48-fe87-4f3f-9f6d-10796449c7d4",
+                "label": "月之轮",
+                "aliases": [
+                  "月之轮"
+                ],
+                "category": "circle",
+                "notes": [
+                  "元素",
+                  "武器",
+                  "职业",
+                  "功能"
+                ],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+            "label": "人界力",
+            "aliases": [
+              "人界力"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 2,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "5b324b07-f4c9-4104-a090-7c4463a034e8",
+                "label": "神之心",
+                "aliases": [
+                  "神之心"
+                ],
+                "category": "circle",
+                "notes": [
+                  "元素",
+                  "武器",
+                  "职业",
+                  "功能"
+                ],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "9aa6ed9f-ba0c-4ff4-ae17-d91ed1d63964",
+                "label": "神之眼",
+                "aliases": [
+                  "神之眼"
+                ],
+                "category": "circle",
+                "notes": [
+                  "元素",
+                  "武器",
+                  "职业",
+                  "功能"
+                ],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254",
+            "label": "虚界力",
+            "aliases": [
+              "虚界力"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 1,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "27682bb6-7f1a-4bc8-9d43-206af74e2358",
+                "label": "蛇之七变",
+                "aliases": [
+                  "蛇之七变"
+                ],
+                "category": "circle",
+                "notes": [
+                  "元素",
+                  "武器",
+                  "职业",
+                  "功能"
+                ],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "relation": "包含/关联",
+        "id": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+        "label": "种族",
+        "aliases": [
+          "种族"
+        ],
+        "category": "circle",
+        "notes": [],
+        "child_count": 19,
+        "children": [
+          {
+            "relation": "包含/关联",
+            "id": "c99011f6-aee5-4d38-abad-5a675ad18a07",
+            "label": "纯水精灵",
+            "aliases": [
+              "纯水精灵"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+            "label": "鬼族",
+            "aliases": [
+              "鬼族"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 2,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "d1fe2f40-286c-4bd5-a485-9acb412ff027",
+                "label": "赤鬼",
+                "aliases": [
+                  "赤鬼"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "ff98324c-ba16-435f-9fde-4c1e17e934de",
+                "label": "青鬼",
+                "aliases": [
+                  "青鬼"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "70d95463-0e96-4c02-ad25-d76c5a940055",
+            "label": "狐妖",
+            "aliases": [
+              "狐妖"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "958f1b47-962c-4da8-9e01-52242feeddf2",
+            "label": "花灵",
+            "aliases": [
+              "花灵"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "fc74d338-4451-49e3-bf49-b79116c28cad",
+            "label": "黄金造物",
+            "aliases": [
+              "黄金造物"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "bf1adda0-f502-4f1c-a5d9-484171a255a6",
+            "label": "兰那罗",
+            "aliases": [
+              "兰那罗"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "9ea97925-27d7-4edd-9f5b-e8963492a14b",
+            "label": "龙族",
+            "aliases": [
+              "龙族"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "fef51bc3-017e-4b51-9a37-5ef3c7df4e17",
+            "label": "美露辛",
+            "aliases": [
+              "美露辛"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "9ec745cd-77a3-4460-bd0f-8b7f93268273",
+            "label": "魔神",
+            "aliases": [
+              "魔神"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "d6216a15-9fb3-45b3-bb84-856f2c6b226d",
+            "label": "人类",
+            "aliases": [
+              "人类"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "35481f32-f6b3-4c90-b038-00da42577e40",
+            "label": "人偶",
+            "aliases": [
+              "人偶"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "a1a33a4e-da94-49d5-80d6-dc8a0553b6b3",
+            "label": "食梦貘",
+            "aliases": [
+              "食梦貘"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "e94051bc-7994-4f5f-88ef-a98b8858eecf",
+            "label": "天狗",
+            "aliases": [
+              "天狗"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "81fbf609-7726-4ae7-822d-f20844213c1c",
+            "label": "天使",
+            "aliases": [
+              "天使"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "fe6e337a-7585-47b9-8db9-4d181b590fd4",
+            "label": "仙人",
+            "aliases": [
+              "仙人"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 1,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "2994fd7c-0350-4b11-bfc7-0d1e2c5d5631",
+                "label": "夜叉",
+                "aliases": [
+                  "夜叉"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+            "label": "妖精",
+            "aliases": [
+              "妖精"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 9,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "4f40e5de-c07d-4396-952a-3971ba740128",
+                "label": "矮灵",
+                "aliases": [
+                  "矮灵"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "fc1010bf-8cde-40b4-af57-dec1d8277abf",
+                "label": "谶鸟",
+                "aliases": [
+                  "谶鸟"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "0ee64820-ce91-4845-a357-4f5e5d58f878",
+                "label": "灯之妖精",
+                "aliases": [
+                  "灯之妖精"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "2c71c308-1ec4-4e56-9b8d-4a8acbfe74bc",
+                "label": "凤仙",
+                "aliases": [
+                  "凤仙"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "e695baeb-3cee-43df-b6b6-a774a6dbf3c0",
+                "label": "海妖",
+                "aliases": [
+                  "海妖"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "59856eb4-aa3b-414d-82ea-c8a7a9d815ab",
+                "label": "兽怪",
+                "aliases": [
+                  "兽怪"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "ca699161-a386-4b8d-804a-ed40d04ff95e",
+                "label": "树妖",
+                "aliases": [
+                  "树妖"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "4062208a-7a0e-469b-90cf-09a0ba1488b2",
+                "label": "霜精",
+                "aliases": [
+                  "霜精"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "55dfb9c7-b9c5-431a-849b-68a46e0664e8",
+                "label": "雪精",
+                "aliases": [
+                  "雪精"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "e36b8db9-f587-4e75-8726-793693ccd967",
+            "label": "妖狸",
+            "aliases": [
+              "妖狸"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "9a9aa70d-ccbf-44ff-aa7d-6c7654ac76c6",
+            "label": "原魔",
+            "aliases": [
+              "原魔"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "fee5ef28-916f-4dd4-8567-e8cd5613147a",
+            "label": "镇灵",
+            "aliases": [
+              "镇灵"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "relation": "包含/关联",
+        "id": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+        "label": "组织",
+        "aliases": [
+          "组织"
+        ],
+        "category": "circle",
+        "notes": [],
+        "child_count": 16,
+        "children": [
+          {
+            "relation": "包含/关联",
+            "id": "3d194906-c780-404d-85ae-4501d4487417",
+            "label": "白夜国",
+            "aliases": [
+              "白夜国"
+            ],
+            "category": "circle",
+            "notes": [
+              "德尔斐.皮托？"
+            ],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+            "label": "稻妻",
+            "aliases": [
+              "稻妻"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 9,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "51d5b25b-b820-475f-baf0-df8148c2f4de",
+                "label": "狛荷屋",
+                "aliases": [
+                  "狛荷屋"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "4a6d5c2c-c026-43d4-96e6-07162d4d2c18",
+                "label": "荒泷派",
+                "aliases": [
+                  "荒泷派"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "8b10256f-5988-4d81-a349-d7c1f7a40582",
+                "label": "勘定奉行",
+                "aliases": [
+                  "勘定奉行"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "f2d0dfe1-be7e-4a83-a1b3-f0602751f9e4",
+                "label": "鸣神大社",
+                "aliases": [
+                  "鸣神大社"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "ecb6cdde-bbf9-47f9-978a-94ed42b543db",
+                "label": "秋沙钱汤",
+                "aliases": [
+                  "秋沙钱汤"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "b4fe42d3-d2f1-4233-9019-a63ed5402574",
+                "label": "珊瑚宫",
+                "aliases": [
+                  "珊瑚宫"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+                "label": "社奉行",
+                "aliases": [
+                  "社奉行"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 1,
+                "children": [
+                  {
+                    "relation": "包含/关联",
+                    "id": "00c28cc4-da35-4599-ae1b-43ffd2cf8cc1",
+                    "label": "终末番",
+                    "aliases": [
+                      "终末番"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "relation": "包含/关联",
+                "id": "631fa0ed-e4cd-47f8-94f7-96b3c316d169",
+                "label": "天领奉行",
+                "aliases": [
+                  "天领奉行"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "2131c1aa-5ec5-4e09-a6f1-87dcc250803f",
+                "label": "长野原烟花店",
+                "aliases": [
+                  "长野原烟花店"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "6e66927e-8dad-447f-9034-40983cd460df",
+            "label": "芬德尼尔",
+            "aliases": [
+              "芬德尼尔"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+            "label": "枫丹",
+            "aliases": [
+              "枫丹"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 9,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "29c5046d-5bb4-429f-81a0-8d9db1e50ed2",
+                "label": "刺玫会",
+                "aliases": [
+                  "刺玫会"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "23672e70-78f5-4114-8ad7-79171b92800f",
+                "label": "德波大饭店",
+                "aliases": [
+                  "德波大饭店"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "cf94fee1-11bd-4e57-bdab-25502c95ea14",
+                "label": "枫丹科学院",
+                "aliases": [
+                  "枫丹科学院"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "e5355a13-736d-46d5-abf5-c5d35f5c8a91",
+                "label": "枫丹廷",
+                "aliases": [
+                  "枫丹廷"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "5d4e5554-a6b1-40e0-ae75-a175092f55cd",
+                "label": "梅洛彼得堡",
+                "aliases": [
+                  "梅洛彼得堡"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "47941557-848f-4818-89f9-43d4d45f4c4a",
+                "label": "千织屋",
+                "aliases": [
+                  "千织屋"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "13a2a746-930a-4f6c-80ab-59b5327dbfb8",
+                "label": "水仙十字结社",
+                "aliases": [
+                  "水仙十字结社"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "a71d3a0b-f2b1-4f4b-bb86-908442c17e6c",
+                "label": "蒸汽鸟报",
+                "aliases": [
+                  "蒸汽鸟报"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "c690f01c-0c22-4e5e-9d20-422db5817e89",
+                "label": "逐影庭",
+                "aliases": [
+                  "逐影庭"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "0c2b9986-fc30-4648-986a-e889bc43e45c",
+            "label": "亥珀波瑞亚",
+            "aliases": [
+              "亥珀波瑞亚"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+            "label": "坎瑞亚",
+            "aliases": [
+              "坎瑞亚"
+            ],
+            "category": "circle",
+            "notes": [
+              "须弥因论派称 荼诃古国"
+            ],
+            "child_count": 4,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "ed4c84ca-3dde-467e-8c69-68122e10892d",
+                "label": "白鹄骑士",
+                "aliases": [
+                  "白鹄骑士"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "c1ddd228-73f7-4499-805b-8b235adce061",
+                "label": "坎瑞亚宫廷卫队",
+                "aliases": [
+                  "坎瑞亚宫廷卫队"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "4bcfa3ea-ebab-42d0-9ff5-485b8393a636",
+                "label": "深渊教团",
+                "aliases": [
+                  "深渊教团"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "43c0c2db-075b-46b9-9ee9-e54af2c7a5c0",
+                "label": "五大罪人",
+                "aliases": [
+                  "五大罪人"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "efd9af08-f0dc-4042-9cce-1f397e852cc6",
+            "label": "琅玕",
+            "aliases": [
+              "琅玕"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "de181c19-8112-4a8d-8a0c-5353581e8645",
+            "label": "雷穆利亚",
+            "aliases": [
+              "雷穆利亚"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+            "label": "璃月",
+            "aliases": [
+              "璃月"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 8,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "ffaf631d-a608-4f31-a7aa-076ea2247d7b",
+                "label": "不卜卢",
+                "aliases": [
+                  "不卜卢"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "1988a157-4b00-434b-8131-7798386b0c75",
+                "label": "飞云商会",
+                "aliases": [
+                  "飞云商会"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "f5b719a7-d04d-4ad2-9869-cee73ba86211",
+                "label": "古华派",
+                "aliases": [
+                  "古华派"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "4e603aca-92a3-45df-adaa-aa95a1783680",
+                "label": "璃月七星",
+                "aliases": [
+                  "璃月七星"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "0a922fab-2e65-4b08-a986-5c9b9929935a",
+                "label": "南十字船队",
+                "aliases": [
+                  "南十字船队"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "fd1b7d96-2638-419f-80b0-7ad8f7ecb13d",
+                "label": "万民堂",
+                "aliases": [
+                  "万民堂"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "626cfd67-d1da-4659-9d2a-85a9a8c31037",
+                "label": "往生堂",
+                "aliases": [
+                  "往生堂"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "48bfff1c-e51b-4878-9909-86b62b2b29ca",
+                "label": "总务司",
+                "aliases": [
+                  "总务司"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+            "label": "蒙德",
+            "aliases": [
+              "蒙德"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 3,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "4a0f89e2-d40d-48c9-b279-59eea54a0b73",
+                "label": "魔女会",
+                "aliases": [
+                  "魔女会"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "90d80cb7-81d7-4d50-8b54-811ad5ec06c9",
+                "label": "西风教会",
+                "aliases": [
+                  "西风教会"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "0160e74d-449f-4edc-b7c0-92d702a810f1",
+                "label": "西风骑士团",
+                "aliases": [
+                  "西风骑士团"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+            "label": "纳塔",
+            "aliases": [
+              "纳塔"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 6,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "56928a5c-3e67-4736-9eca-85db0fcd03ee",
+                "label": "花羽会",
+                "aliases": [
+                  "花羽会"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "e03846e0-bb86-4fa9-a177-5891bd382cc3",
+                "label": "回声之子",
+                "aliases": [
+                  "回声之子"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "d6c876e1-9816-4d44-9235-3ddc30180946",
+                "label": "流泉之众",
+                "aliases": [
+                  "流泉之众"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "5099bb7f-3073-4af4-89d2-ff991c3f267d",
+                "label": "沃陆之邦",
+                "aliases": [
+                  "沃陆之邦"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "8f0a8960-e4a5-4422-9a56-6e4fe72226da",
+                "label": "悬木人",
+                "aliases": [
+                  "悬木人"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "6e743a6a-6205-4d2f-9640-f27a0df7cb1a",
+                "label": "烟迷主",
+                "aliases": [
+                  "烟迷主"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+            "label": "挪德卡莱",
+            "aliases": [
+              "挪德卡莱"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 6,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "516a6be2-ca26-4cb3-ad6a-b7a270dec00d",
+                "label": "北大陆情报网",
+                "aliases": [
+                  "北大陆情报网"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "5f8e1d29-35fa-4cb5-b1fc-0c06b5dc883d",
+                "label": "叮铃咣啷蛋卷工坊",
+                "aliases": [
+                  "叮铃咣啷蛋卷工坊"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "1c206ff8-b3eb-4a58-bb9d-50815bfa9265",
+                "label": "海螺帮",
+                "aliases": [
+                  "海螺帮"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "ac618cb2-c7d9-4dfb-b81d-328347c97d56",
+                "label": "秘闻馆",
+                "aliases": [
+                  "秘闻馆"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "dcabe319-583f-4bce-bb1b-0e319393e357",
+                "label": "霜月之子",
+                "aliases": [
+                  "霜月之子"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "8331ea2c-01be-43f2-adda-5c2b340d3a3d",
+                "label": "执灯士",
+                "aliases": [
+                  "执灯士"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "fcddc9d4-ace8-4774-81d5-97704b0cf418",
+            "label": "圣城图兰",
+            "aliases": [
+              "圣城图兰"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 1,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "3aa2f640-2928-4484-8901-0b2991271be1",
+                "label": "至高领主",
+                "aliases": [
+                  "至高领主"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "a618c940-7776-45e5-9740-1661dd43df65",
+            "label": "天空岛",
+            "aliases": [
+              "天空岛"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 0,
+            "children": []
+          },
+          {
+            "relation": "包含/关联",
+            "id": "e017286f-3678-438b-9019-ddfc28d18e11",
+            "label": "须弥",
+            "aliases": [
+              "须弥"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 9,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "e8bfbcdc-2896-4d7d-98fa-90f3c1b1cc3d",
+                "label": "阿如村",
+                "aliases": [
+                  "阿如村"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "f136a4dc-512c-4dad-b736-c476b2ceaccd",
+                "label": "赤王七柱",
+                "aliases": [
+                  "赤王七柱"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+                "label": "镀金旅团",
+                "aliases": [
+                  "镀金旅团"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 4,
+                "children": [
+                  {
+                    "relation": "包含/关联",
+                    "id": "51e566e9-47e4-4d8d-8685-124efa2fb9ab",
+                    "label": "炽光猎兽",
+                    "aliases": [
+                      "炽光猎兽"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "7e950ae4-db22-4261-a15a-16b093008c44",
+                    "label": "神王之遗",
+                    "aliases": [
+                      "神王之遗"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 1,
+                    "children": [
+                      {
+                        "relation": "包含/关联",
+                        "id": "d8cfae96-5a2a-4247-ac32-7e500c1cd11e",
+                        "label": "阿赫玛尔之眼",
+                        "aliases": [
+                          "阿赫玛尔之眼"
+                        ],
+                        "category": "circle",
+                        "notes": [],
+                        "child_count": 0,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "7492afbf-20b5-4db6-84c9-2fe25cf54986",
+                    "label": "塔尼特部族",
+                    "aliases": [
+                      "塔尼特部族"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "5abab0b5-6e47-46aa-b6c5-78422fb3125f",
+                    "label": "图特摩斯",
+                    "aliases": [
+                      "图特摩斯"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "relation": "包含/关联",
+                "id": "a4c68e19-187f-4efd-9cd4-3db2e219af68",
+                "label": "化城郭",
+                "aliases": [
+                  "化城郭"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "ae3126b1-7870-42fa-94ed-3b31bef0e5af",
+                "label": "缄默之殿",
+                "aliases": [
+                  "缄默之殿"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+                "label": "教令院",
+                "aliases": [
+                  "教令院"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 6,
+                "children": [
+                  {
+                    "relation": "包含/关联",
+                    "id": "8da8e3cd-104e-49d9-84c9-95a4cb826bf8",
+                    "label": "妙论派",
+                    "aliases": [
+                      "妙论派"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "2accc503-b32b-4100-80d4-000d7a1c1d13",
+                    "label": "明论派",
+                    "aliases": [
+                      "明论派"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "21834f8c-4ab0-43f2-a95f-2c3197e093c7",
+                    "label": "生论派",
+                    "aliases": [
+                      "生论派"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "458dfe55-95a6-4180-84f7-83f51f80f61f",
+                    "label": "素论派",
+                    "aliases": [
+                      "素论派"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "7bfae956-bf06-4e0e-a913-6a17350ac77b",
+                    "label": "因论派",
+                    "aliases": [
+                      "因论派"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  },
+                  {
+                    "relation": "包含/关联",
+                    "id": "9f2aa31a-6841-4e39-94d2-f157e192cd77",
+                    "label": "知论派",
+                    "aliases": [
+                      "知论派"
+                    ],
+                    "category": "circle",
+                    "notes": [],
+                    "child_count": 0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "relation": "包含/关联",
+                "id": "946db52a-dd3c-4d11-98f4-a2caf3fd6a3a",
+                "label": "居尔城",
+                "aliases": [
+                  "居尔城"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "86a2022b-5d3a-4760-9219-ba18271b7254",
+                "label": "那伽朱那团/矫论团",
+                "aliases": [
+                  "那伽朱那团/矫论团",
+                  "那伽朱那团",
+                  "矫论团"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "b3ac92a1-cdc1-43d4-baa2-3440b42e2f32",
+                "label": "祖拜尔剧场",
+                "aliases": [
+                  "祖拜尔剧场"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "relation": "包含/关联",
+            "id": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+            "label": "至冬",
+            "aliases": [
+              "至冬"
+            ],
+            "category": "circle",
+            "notes": [],
+            "child_count": 4,
+            "children": [
+              {
+                "relation": "包含/关联",
+                "id": "860bfa89-b352-4e5c-8820-48685fa3b1fd",
+                "label": "北国银行",
+                "aliases": [
+                  "北国银行"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "e27a03d4-ef6e-4171-bb52-3d52bc14ea87",
+                "label": "壁炉之家",
+                "aliases": [
+                  "壁炉之家"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "513eb4ab-cbb0-47bd-8e3e-e9be902fa0b1",
+                "label": "皇家军事学院",
+                "aliases": [
+                  "皇家军事学院"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              },
+              {
+                "relation": "包含/关联",
+                "id": "932b006d-dd23-474b-9715-59f6f19ec130",
+                "label": "愚人众执行官",
+                "aliases": [
+                  "愚人众执行官"
+                ],
+                "category": "circle",
+                "notes": [],
+                "child_count": 0,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

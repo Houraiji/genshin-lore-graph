@@ -1,0 +1,423 @@
+{
+  "generated_at": "2026-05-22T15:47:00.110Z",
+  "node_count": 135,
+  "relationship_count": 134,
+  "root_count": 1,
+  "leaf_count": 110,
+  "max_depth": 5,
+  "category_counts": {
+    "circle": 135
+  },
+  "relation_counts": {
+    "包含/关联": 134
+  },
+  "top_degree_nodes": [
+    {
+      "id": "6d0b2460-ba36-4986-854e-3e0cccac9af6",
+      "label": "种族",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 19,
+        "total": 20
+      }
+    },
+    {
+      "id": "c98e8d7f-0ced-4caa-88d9-d8f10059b381",
+      "label": "组织",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 16,
+        "total": 17
+      }
+    },
+    {
+      "id": "6e81f1f7-151d-44c9-881b-aab993ee26c1",
+      "label": "稻妻",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 9,
+        "total": 10
+      }
+    },
+    {
+      "id": "ea5f5c8e-0194-4d5c-a259-84ce508df29b",
+      "label": "枫丹",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 9,
+        "total": 10
+      }
+    },
+    {
+      "id": "e017286f-3678-438b-9019-ddfc28d18e11",
+      "label": "须弥",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 9,
+        "total": 10
+      }
+    },
+    {
+      "id": "9ecfbc5d-1f57-4604-8aa5-aaf793aafc9a",
+      "label": "妖精",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 9,
+        "total": 10
+      }
+    },
+    {
+      "id": "d4e4371a-f209-4fca-9cb6-88ae83f731d3",
+      "label": "璃月",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 8,
+        "total": 9
+      }
+    },
+    {
+      "id": "931d82c4-cf88-42bc-a933-9b5ceb8bf23a",
+      "label": "教令院",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 6,
+        "total": 7
+      }
+    },
+    {
+      "id": "6513413a-01c0-4a49-aedb-8b9ad222e493",
+      "label": "纳塔",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 6,
+        "total": 7
+      }
+    },
+    {
+      "id": "71fe2f3b-ef62-4471-9ff5-31b063ac1518",
+      "label": "挪德卡莱",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 6,
+        "total": 7
+      }
+    },
+    {
+      "id": "e5de90b9-e25a-4933-a79b-3ed0f61f75fa",
+      "label": "镀金旅团",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 4,
+        "total": 5
+      }
+    },
+    {
+      "id": "081bffb7-66c1-4e1b-96a8-690b4e0cbced",
+      "label": "光界力",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 4,
+        "total": 5
+      }
+    },
+    {
+      "id": "d1ce960f-4b59-4fc5-8414-b6662f531caa",
+      "label": "坎瑞亚",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 4,
+        "total": 5
+      }
+    },
+    {
+      "id": "915fc00d-3cd3-4c81-a14a-84a8b3715cf1",
+      "label": "至冬",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 4,
+        "total": 5
+      }
+    },
+    {
+      "id": "473c3bdf-85e0-4d47-802e-e2eb86e93eaa",
+      "label": "蒙德",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 3,
+        "total": 4
+      }
+    },
+    {
+      "id": "446498aa-6772-46f9-9f30-8b04b3fe6410",
+      "label": "能力",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 3,
+        "total": 4
+      }
+    },
+    {
+      "id": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "label": "提瓦特世界",
+      "category": "circle",
+      "degree": {
+        "in": 0,
+        "out": 4,
+        "total": 4
+      }
+    },
+    {
+      "id": "feab972b-787d-4c39-be4a-431eeec4e3ca",
+      "label": "等级",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": "4b126ed4-0985-4c06-8ccf-4dc4c5c322a5",
+      "label": "鬼族",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": "6adc1aa1-6553-4d59-9267-c2b2d9db5ef7",
+      "label": "人界力",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": "a19503eb-42f6-49f9-bc3e-14b5b6fed296",
+      "label": "社奉行",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 1,
+        "total": 2
+      }
+    },
+    {
+      "id": "7e950ae4-db22-4261-a15a-16b093008c44",
+      "label": "神王之遗",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 1,
+        "total": 2
+      }
+    },
+    {
+      "id": "fcddc9d4-ace8-4774-81d5-97704b0cf418",
+      "label": "圣城图兰",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 1,
+        "total": 2
+      }
+    },
+    {
+      "id": "fe6e337a-7585-47b9-8db9-4d181b590fd4",
+      "label": "仙人",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 1,
+        "total": 2
+      }
+    },
+    {
+      "id": "c62c3bf8-4d58-48f4-b0b2-f0e6816d1254",
+      "label": "虚界力",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 1,
+        "total": 2
+      }
+    },
+    {
+      "id": "d8cfae96-5a2a-4247-ac32-7e500c1cd11e",
+      "label": "阿赫玛尔之眼",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "e8bfbcdc-2896-4d7d-98fa-90f3c1b1cc3d",
+      "label": "阿如村",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "4f40e5de-c07d-4396-952a-3971ba740128",
+      "label": "矮灵",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "ed4c84ca-3dde-467e-8c69-68122e10892d",
+      "label": "白鹄骑士",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "3d194906-c780-404d-85ae-4501d4487417",
+      "label": "白夜国",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "516a6be2-ca26-4cb3-ad6a-b7a270dec00d",
+      "label": "北大陆情报网",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "860bfa89-b352-4e5c-8820-48685fa3b1fd",
+      "label": "北国银行",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "e27a03d4-ef6e-4171-bb52-3d52bc14ea87",
+      "label": "壁炉之家",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "51d5b25b-b820-475f-baf0-df8148c2f4de",
+      "label": "狛荷屋",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "ffaf631d-a608-4f31-a7aa-076ea2247d7b",
+      "label": "不卜卢",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "fc1010bf-8cde-40b4-af57-dec1d8277abf",
+      "label": "谶鸟",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "d1fe2f40-286c-4bd5-a485-9acb412ff027",
+      "label": "赤鬼",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "f136a4dc-512c-4dad-b736-c476b2ceaccd",
+      "label": "赤王七柱",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "51e566e9-47e4-4d8d-8685-124efa2fb9ab",
+      "label": "炽光猎兽",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    },
+    {
+      "id": "c99011f6-aee5-4d38-abad-5a675ad18a07",
+      "label": "纯水精灵",
+      "category": "circle",
+      "degree": {
+        "in": 1,
+        "out": 0,
+        "total": 1
+      }
+    }
+  ],
+  "roots": [
+    {
+      "id": "b6c537b5-d432-43e3-998f-5dd7b2604c0c",
+      "label": "提瓦特世界",
+      "child_count": 4
+    }
+  ]
+}

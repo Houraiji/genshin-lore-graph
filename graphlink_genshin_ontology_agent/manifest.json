@@ -1,0 +1,37 @@
+{
+  "title": "原神世界观",
+  "source_page": "https://open.graphlink.cc/GraphVisualizationShare?id=6964957435d5c31deca9f855&type=ontology",
+  "share_id": "6964957435d5c31deca9f855",
+  "graph_type": "ontology",
+  "retrieved_at": "2026-05-22T15:47:00.110Z",
+  "source_site": "GraphLink",
+  "project_name": "原神",
+  "project_description": "提瓦特关系图谱",
+  "open_description": "原神世界观",
+  "api_endpoints_used": [
+    "/open/share/project/info?share_id=<share_id>",
+    "/open/share/ontology/json?share_id=<share_id>",
+    "/open/share/ontology/desc/recent?share_id=<share_id>"
+  ],
+  "resource_base_url": "https://kg-public.obs.cn-east-3.myhuaweicloud.com/resources/",
+  "counts": {
+    "nodes": 135,
+    "relationships": 134,
+    "roots": 1,
+    "leaves": 110,
+    "max_depth": 5
+  },
+  "files": {
+    "README.md": "说明、推荐读取顺序和 schema 摘要。",
+    "manifest.json": "来源、抓取时间、文件清单和总体数量。",
+    "stats.json": "节点/关系数量、根节点、叶子节点、深度和分布统计。",
+    "nodes.jsonl": "标准化世界观节点；一行一个 JSON。",
+    "relationships.jsonl": "标准化有向关系；一行一条边。",
+    "worldview_graph.json": "按节点聚合的 incoming/outgoing 邻接表。",
+    "worldview_tree.json": "从根节点展开的树状结构，适合层级阅读。",
+    "paths.jsonl": "根到每个节点的路径；适合按世界观层级检索。",
+    "lookup_by_name.json": "名称、别名到节点 id 的索引。",
+    "updates.json": "GraphLink 页面展示的最近更新记录。",
+    "source/raw_ontology_model.json": "原始世界观图谱 JSON。"
+  }
+}

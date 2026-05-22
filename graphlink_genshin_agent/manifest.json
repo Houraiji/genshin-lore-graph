@@ -1,0 +1,37 @@
+{
+  "title": "原神",
+  "source_page": "https://open.graphlink.cc/GraphVisualizationShare?id=6964957435d5c31deca9f855",
+  "share_id": "6964957435d5c31deca9f855",
+  "retrieved_at": "2026-05-22T15:37:49.729Z",
+  "source_site": "GraphLink",
+  "project_description": "提瓦特关系图谱",
+  "open_description": "原神人物关系图谱",
+  "ontology_open_description": "原神世界观",
+  "api_endpoints_used": [
+    "/open/share/data/json?share_id=<share_id>",
+    "/open/share/project/info?share_id=<share_id>",
+    "/open/share/ontology/json?share_id=<share_id>",
+    "/open/share/data/desc/recent?share_id=<share_id>",
+    "/open/share/ontology/desc/recent?share_id=<share_id>"
+  ],
+  "resource_base_url": "https://kg-public.obs.cn-east-3.myhuaweicloud.com/resources/",
+  "files": {
+    "README.md": "说明、推荐读取顺序和 schema 摘要。",
+    "manifest.json": "来源、抓取时间、项目描述和文件清单。",
+    "stats.json": "节点/关系数量、类型分布、常见关系、度数最高实体。",
+    "nodes.jsonl": "标准化实体；一行一个 JSON，适合检索/向量化。",
+    "relationships.jsonl": "标准化有向关系；一行一条边。",
+    "character_graph.json": "按实体聚合的 incoming/outgoing 邻接表。",
+    "lookup_by_name.json": "名称、别名到节点 id 的索引。",
+    "ontology_model.json": "世界观/本体模型的标准化节点和关系。",
+    "updates.json": "GraphLink 页面展示的最近更新记录。",
+    "source/raw_graph.json": "原始人物关系图 JSON。",
+    "source/raw_ontology_model.json": "原始世界观本体模型 JSON。"
+  },
+  "counts": {
+    "graph_nodes": 613,
+    "graph_edges": 585,
+    "ontology_nodes": 135,
+    "ontology_edges": 134
+  }
+}

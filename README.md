@@ -1,0 +1,144 @@
+# Genshin Lore Graph
+
+> 基于 GraphLink 公开图谱整理的原神人物关系与世界观设定数据集，并封装为可供 Agent 检索使用的 Skill。
+
+**GitHub About 描述建议：**
+
+```text
+基于 open.GraphLink.cc/Genshin 公开人物关系图与世界观图谱整理的原神 Lore Graph，提供 JSON/JSONL 数据与 Codex/Claude Code Skill。
+```
+
+## 项目简介
+
+本仓库将 GraphLink 上公开分享的原神人物关系图和世界观图谱整理为更适合 AI Agent 读取、检索和推理的文件结构。
+
+它不是一个游戏攻略库，也不是官方设定集；更准确地说，它是一个面向 Agent 的结构化 Lore Graph：把角色、NPC、组织、神明、种族、事件、地点、概念以及它们之间的关系转换为标准化的节点、边、邻接表、层级树和查询脚本。
+
+数据来源：
+
+- 人物/实体关系图：`https://open.graphlink.cc/GraphVisualizationShare?id=6964957435d5c31deca9f855`
+- 世界观/本体图谱：`https://open.graphlink.cc/GraphVisualizationShare?id=6964957435d5c31deca9f855&type=ontology`
+
+## 数据规模
+
+| 数据集 | 节点数 | 关系数 | 说明 |
+| --- | ---: | ---: | --- |
+| 人物/实体关系图 | 613 | 585 | 角色、NPC、神明、魔物、组织、事件、物件、伏笔等 |
+| 世界观图谱 | 135 | 134 | 提瓦特世界观、本体层级、组织、种族、能力、等级等 |
+
+世界观图谱额外整理了树状结构和根到节点路径：
+
+- 根节点：1
+- 叶子节点：110
+- 最大路径深度：5
+
+## 目录结构
+
+```text
+.
+├── graphlink_genshin_agent/
+│   ├── nodes.jsonl
+│   ├── relationships.jsonl
+│   ├── character_graph.json
+│   ├── lookup_by_name.json
+│   ├── ontology_model.json
+│   └── source/
+├── graphlink_genshin_ontology_agent/
+│   ├── nodes.jsonl
+│   ├── relationships.jsonl
+│   ├── worldview_graph.json
+│   ├── worldview_tree.json
+│   ├── paths.jsonl
+│   ├── lookup_by_name.json
+│   └── source/
+└── skills/
+    └── genshin-lore-graph/
+        ├── SKILL.md
+        ├── references/
+        │   ├── characters/
+        │   └── worldview/
+        └── scripts/
+            └── query_genshin_graph.py
+```
+
+## 主要文件说明
+
+### 人物关系图
+
+位于 `graphlink_genshin_agent/`。
+
+- `nodes.jsonl`：一行一个人物或实体，包含 `id`, `label`, `aliases`, `entity_type`, `importance`, `notes`, `degree` 等字段。
+- `relationships.jsonl`：一行一条有向关系，包含 `source`, `relation`, `target`, `notes`, `created_at` 等字段。
+- `character_graph.json`：按实体聚合的邻接表，适合回答“某个人物和谁有什么关系”。
+- `lookup_by_name.json`：名称和别名到节点 id 的索引。
+- `source/raw_graph.json`：GraphLink 原始图谱 JSON，保留用于溯源。
+
+### 世界观图谱
+
+位于 `graphlink_genshin_ontology_agent/`。
+
+- `nodes.jsonl`：一行一个世界观节点。
+- `relationships.jsonl`：一行一条世界观层级或关联关系。
+- `worldview_graph.json`：按节点聚合的上下游关系。
+- `worldview_tree.json`：从根节点展开的世界观树。
+- `paths.jsonl`：根节点到每个节点的路径，适合层级检索。
+- `source/raw_ontology_model.json`：GraphLink 原始世界观 JSON。
+
+## Skill 用法
+
+仓库内提供了 `genshin-lore-graph` Skill，可安装到 Codex 或 Claude Code 的 skills 目录中，让 Agent 在回答原神角色关系、NPC、组织、神明、世界观、本体层级等问题时自动查阅本地数据。
+
+Skill 路径：
+
+```text
+skills/genshin-lore-graph/
+```
+
+查询脚本示例：
+
+```bash
+python skills/genshin-lore-graph/scripts/query_genshin_graph.py --name "钟离" --dataset characters
+python skills/genshin-lore-graph/scripts/query_genshin_graph.py --name "提瓦特世界" --dataset worldview
+python skills/genshin-lore-graph/scripts/query_genshin_graph.py --search "坎瑞亚" --dataset both --limit 20
+```
+
+返回结果会包含：
+
+- 匹配到的节点
+- 别名
+- 类型/重要度
+- 备注
+- 入边关系
+- 出边关系
+- 世界观路径
+
+## 适合的使用场景
+
+- 给 Agent 提供原神角色关系的本地知识库。
+- 检索角色之间的亲属、师徒、敌对、组织、剧情事件关系。
+- 查询提瓦特世界观中的组织、种族、能力、等级等层级。
+- 构建 RAG、知识图谱问答、剧情推理或角色关系可视化应用。
+- 将 GraphLink 图谱转换为 JSONL、邻接表、路径树等更适合程序读取的结构。
+
+## 注意事项
+
+- 图谱边是有向的：`source --relation--> target`。不要默认关系可反向成立。
+- 图中保留了“伏笔”“猜测”“问题”等原始备注。此类内容应作为线索或整理者注记，不应直接当作官方定论。
+- 数据基于公开 GraphLink 分享页在整理时的内容，不保证与游戏最新版本同步。
+- 本仓库不隶属于 HoYoverse、miHoYo 或 GraphLink。
+- 原神相关名称、设定和商标归其权利方所有；本仓库仅用于非商业的学习、研究和 Agent 检索实验。
+
+## 推荐 GitHub Topics
+
+```text
+genshin-impact
+genshin
+lore
+knowledge-graph
+graphlink
+jsonl
+rag
+agent
+claude-code
+codex
+```

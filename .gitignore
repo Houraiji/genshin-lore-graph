@@ -1,0 +1,17 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local env/logs
+.env
+.env.*
+*.log
+*.tmp
