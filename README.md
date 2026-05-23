@@ -128,10 +128,11 @@ cp -R skills/genshin-lore-graph ~/.claude/skills/
 ```bash
 python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "钟离"
 python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "凯亚" --edge-limit 10
+python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "https://wiki.biligame.com/ys/爱诺"
 python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "派蒙" --offline
 ```
 
-`query_genshin_context.py` 会优先从 Biligame 原神WIKI读取角色基础资料，再合并本地 GraphLink 图谱中的关系、备注和世界观路径。`--offline` 会跳过联网查询，只读取本地图谱。
+`query_genshin_context.py` 会优先从 Biligame 原神WIKI读取角色基础资料，再合并本地 GraphLink 图谱中的关系、备注和世界观路径。`--offline` 会跳过联网查询，只读取本地图谱；离线、网络失败或解析失败不等于角色页不存在，基础资料很重要时请去掉 `--offline`，或直接传入 Biligame 角色详情页 URL 重试。
 
 本地图谱查询示例：
 

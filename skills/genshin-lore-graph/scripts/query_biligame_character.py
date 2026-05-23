@@ -44,23 +44,7 @@ FIELD_ALIASES = {
     "介绍": "description",
 }
 
-DETAIL_FIELDS = [
-    "称号",
-    "全名/本名",
-    "所属地区",
-    "出身地区",
-    "种族",
-    "性别",
-    "稀有度",
-    "神之眼",
-    "神之心",
-    "武器类型",
-    "命之座",
-    "特殊料理",
-    "实装日期",
-    "TAG",
-    "介绍",
-]
+DETAIL_FIELDS = list(FIELD_ALIASES)
 
 
 class FetchError(RuntimeError):
@@ -110,17 +94,36 @@ def normalize_lookup_name(value: str) -> str:
     return value.strip()
 
 
+def detail_name_from_input(value: str) -> str | None:
+    match = re.search(r"https?://wiki\.biligame\.com/ys/[^\s?#]+", html.unescape(value or ""))
+    if not match:
+        return None
+
+    parsed = urllib.parse.urlparse(match.group(0))
+    if parsed.netloc != "wiki.biligame.com" or not parsed.path.startswith("/ys/"):
+        return None
+
+    raw_name = parsed.path.rstrip("/").rsplit("/", 1)[-1]
+    name = urllib.parse.unquote(raw_name).replace("_", " ").strip()
+    name = re.split(r"[，,。；;：:\]\)）>\"']", name, 1)[0].strip()
+    if not name or name == "角色筛选":
+        return None
+    return name
+
+
 def name_candidates(name: str) -> list[str]:
     raw = html.unescape(name or "").strip()
-    cleaned = re.sub(r"\s+", " ", raw).strip()
-    compact = normalize_lookup_name(raw)
+    detail_name = detail_name_from_input(raw)
+    source = detail_name or raw
+    cleaned = re.sub(r"\s+", " ", source).strip()
+    compact = normalize_lookup_name(source)
     candidates = [cleaned, compact]
 
-    for match in re.findall(r"[（(]([^（）()]+)[）)]", raw):
+    for match in re.findall(r"[（(]([^（）()]+)[）)]", source):
         candidates.append(match.strip())
         candidates.extend(part.strip() for part in re.split(r"[/／、,，]", match) if part.strip())
 
-    without_parens = re.sub(r"[（(][^（）()]+[）)]", "", raw).strip()
+    without_parens = re.sub(r"[（(][^（）()]+[）)]", "", source).strip()
     candidates.append(without_parens)
     candidates.extend(part.strip() for part in re.split(r"[/／、,，]", without_parens) if part.strip())
 
@@ -258,6 +261,8 @@ def query_character(name: str, timeout: int = 15, skip_filter: bool = False) -> 
         "filter_url": FILTER_URL,
         "detail_url": None,
         "character": None,
+        "lookup_mode": None,
+        "detail_attempts": [],
         "error": None,
     }
 
@@ -276,12 +281,14 @@ def query_character(name: str, timeout: int = 15, skip_filter: bool = False) -> 
     trial_names = [resolved_name] + [candidate for candidate in candidates if candidate != resolved_name]
     seen = set()
     errors = []
+    detail_attempts = []
     for trial_name in trial_names:
         key = normalize_lookup_name(trial_name)
         if not key or key in seen:
             continue
         seen.add(key)
         detail_url = filter_entry["url"] if filter_entry and normalize_lookup_name(filter_entry["name"]) == key else detail_url_for_name(trial_name)
+        detail_attempts.append({"name": trial_name, "url": detail_url})
         try:
             page_html = fetch_text(detail_url, timeout)
         except FetchError as exc:
@@ -294,6 +301,8 @@ def query_character(name: str, timeout: int = 15, skip_filter: bool = False) -> 
                 {
                     "found": True,
                     "detail_url": detail_url,
+                    "lookup_mode": "filter_confirmed_detail" if filter_entry is not None else "direct_detail",
+                    "detail_attempts": detail_attempts,
                     "character": {
                         "name": details["page_title"] or trial_name,
                         "source_name": trial_name,
@@ -310,6 +319,7 @@ def query_character(name: str, timeout: int = 15, skip_filter: bool = False) -> 
 
     if errors:
         result["error"] = errors[0] if len(errors) == 1 else {"stage": "detail", "attempts": errors}
+    result["detail_attempts"] = detail_attempts
     return result
 
 

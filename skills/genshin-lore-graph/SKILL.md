@@ -32,17 +32,20 @@ Live character basics come from Biligame 原神WIKI:
 
 ## Quick Workflow
 
-1. For a user asking about a specific character, run `scripts/query_genshin_context.py --name "<term>"`.
+1. For a user asking about a specific character, run `scripts/query_genshin_context.py --name "<term>"` first.
 2. For a concept or broad fuzzy search, run `scripts/query_genshin_graph.py --search "<keyword>" --dataset both --limit 10`.
-3. If network access is unavailable or the user wants local-only behavior, run `scripts/query_genshin_context.py --name "<term>" --offline`.
-4. Read only the returned matching records first. Load full JSON/JSONL files only when the answer needs broader traversal or statistics.
-5. Treat edges as directed: `source --relation--> target`. Mention direction if it matters.
+3. If the user provides a Biligame detail URL such as `https://wiki.biligame.com/ys/爱诺`, pass that URL as `--name`; the script will extract the page name and query both Biligame and GraphLink.
+4. Use `--offline` only when network access is unavailable or the user explicitly wants local-only behavior.
+5. Read only the returned matching records first. Load full JSON/JSONL files only when the answer needs broader traversal or statistics.
+6. Treat edges as directed: `source --relation--> target`. Mention direction if it matters.
 
 ## Answering Guidance
 
 - Prefer Biligame fields for live basic character profile data: title, full name, region, origin, race, gender, rarity, vision/gnosis, weapon, constellation, special dish, release date, tags, and intro.
 - Prefer GraphLink names, relationship labels, notes, and hierarchy paths for lore graph relationships and setting context.
 - Keep Biligame facts and GraphLink graph notes distinguishable when the source matters.
+- Never claim that a character has no Biligame page just because an offline lookup, network request, or parser failed. Say the live lookup status precisely, then answer from GraphLink if available.
+- If Biligame basics are important and the first live lookup fails, retry with the exact Biligame detail URL or `scripts/query_biligame_character.py --name "<term>" --skip-filter` before concluding the page is unavailable.
 - Preserve uncertainty from the graph. If a node note says "伏笔" or poses a question, present it as an open clue, not confirmed canon.
 - If multiple labels/aliases resolve to different ids, compare surrounding relationships before choosing.
 - Do not invent missing reciprocal relationships. If the graph only says `A --父亲--> B`, report that direction unless another edge confirms the inverse.
@@ -55,6 +58,7 @@ Examples:
 ```bash
 python scripts/query_genshin_context.py --name "钟离"
 python scripts/query_genshin_context.py --name "凯亚" --edge-limit 10
+python scripts/query_genshin_context.py --name "https://wiki.biligame.com/ys/爱诺"
 python scripts/query_genshin_context.py --name "派蒙" --offline
 python scripts/query_genshin_graph.py --name "钟离" --dataset characters
 python scripts/query_genshin_graph.py --name "提瓦特世界" --dataset worldview

@@ -8,7 +8,7 @@ import json
 import sys
 from typing import Any
 
-from query_biligame_character import FILTER_URL, query_character
+from query_biligame_character import FILTER_URL, name_candidates, query_character
 from query_genshin_graph import compact_node, find_matches, load_dataset
 
 
@@ -16,18 +16,58 @@ GRAPHLINK_SOURCE = "open.GraphLink.cc/Genshin share id 6964957435d5c31deca9f855 
 
 
 def graph_matches(
-    name: str,
+    names: str | list[str],
     dataset: str,
     limit: int,
     edge_limit: int,
 ) -> list[dict[str, Any]]:
+    terms = [names] if isinstance(names, str) else names
     datasets = ["characters", "worldview"] if dataset == "both" else [dataset]
     matches: list[dict[str, Any]] = []
+    seen: set[tuple[str, str]] = set()
     for current in datasets:
         data = load_dataset(current)
-        rows = find_matches(data, name, None, [], limit)
-        matches.extend(compact_node(current, row, edge_limit, data["paths_by_id"]) for row in rows)
+        dataset_count = 0
+        for term in terms:
+            rows = find_matches(data, term, None, [], limit)
+            for row in rows:
+                key = (current, row["id"])
+                if key in seen:
+                    continue
+                seen.add(key)
+                matches.append(compact_node(current, row, edge_limit, data["paths_by_id"]))
+                dataset_count += 1
+                if dataset_count >= limit:
+                    break
+            if dataset_count >= limit:
+                break
     return matches
+
+
+def graph_query_terms(name: str, biligame: dict[str, Any]) -> list[str]:
+    values: list[str] = [name]
+    values.extend(biligame.get("normalized_query") or [])
+
+    character = biligame.get("character") or {}
+    values.extend(
+        value
+        for value in [
+            character.get("source_name"),
+            character.get("name"),
+            character.get("page_title"),
+            (character.get("fields") or {}).get("full_name"),
+        ]
+        if value
+    )
+
+    terms: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        for candidate in name_candidates(value):
+            if candidate not in seen:
+                seen.add(candidate)
+                terms.append(candidate)
+    return terms
 
 
 def query_context(args: argparse.Namespace) -> dict[str, Any]:
@@ -57,11 +97,13 @@ def query_context(args: argparse.Namespace) -> dict[str, Any]:
                 "error": {"stage": "biligame", "message": str(exc)},
             }
 
-    matches = graph_matches(args.name, args.dataset, args.limit, args.edge_limit)
+    terms = graph_query_terms(args.name, biligame)
+    matches = graph_matches(terms, args.dataset, args.limit, args.edge_limit)
 
     return {
         "query": {
             "name": args.name,
+            "graph_query_terms": terms,
             "dataset": args.dataset,
             "offline": args.offline,
             "limit": args.limit,
@@ -79,7 +121,8 @@ def query_context(args: argparse.Namespace) -> dict[str, Any]:
             "Use graph_matches for GraphLink relationship edges, notes, and worldview paths.",
             "Keep Biligame facts and GraphLink graph notes distinguishable in answers.",
             "Treat GraphLink notes containing 伏笔/猜测/问题 as clues or annotations, not official confirmation.",
-            "If biligame_character.found is false, answer from graph_matches and mention that live Biligame lookup was unavailable or not a playable character match.",
+            "Do not treat --offline, network errors, or parser errors as proof that a Biligame character page does not exist.",
+            "If biligame_character.found is false, answer from graph_matches and mention the live lookup status precisely; retry without --offline or with the Biligame detail URL when basic profile data matters.",
         ],
     }
 
