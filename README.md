@@ -55,6 +55,8 @@
         │   ├── characters/
         │   └── worldview/
         └── scripts/
+            ├── query_biligame_character.py
+            ├── query_genshin_context.py
             └── query_genshin_graph.py
 ```
 
@@ -113,7 +115,17 @@ mkdir -p ~/.claude/skills
 cp -R skills/genshin-lore-graph ~/.claude/skills/
 ```
 
-查询脚本示例：
+融合查询脚本示例：
+
+```bash
+python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "钟离"
+python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "凯亚" --edge-limit 10
+python skills/genshin-lore-graph/scripts/query_genshin_context.py --name "派蒙" --offline
+```
+
+`query_genshin_context.py` 会优先从 Biligame 原神WIKI读取角色基础资料，再合并本地 GraphLink 图谱中的关系、备注和世界观路径。`--offline` 会跳过联网查询，只读取本地图谱。
+
+本地图谱查询示例：
 
 ```bash
 python skills/genshin-lore-graph/scripts/query_genshin_graph.py --name "钟离" --dataset characters
@@ -123,13 +135,9 @@ python skills/genshin-lore-graph/scripts/query_genshin_graph.py --search "坎瑞
 
 返回结果会包含：
 
-- 匹配到的节点
-- 别名
-- 类型/重要度
-- 备注
-- 入边关系
-- 出边关系
-- 世界观路径
+- Biligame 角色基础信息：称号、全名/本名、地区、出身、种族、性别、稀有度、神之眼/神之心、武器、命之座、实装日期、TAG、介绍等。
+- GraphLink 图谱信息：匹配节点、别名、类型/重要度、备注、入边关系、出边关系、世界观路径。
+- 来源信息：Biligame 角色筛选页、角色详情页、本地 GraphLink 图谱说明。
 
 ## 适合的使用场景
 

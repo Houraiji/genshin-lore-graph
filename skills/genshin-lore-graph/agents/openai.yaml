@@ -1,7 +1,7 @@
 interface:
   display_name: "Genshin Lore Graph"
-  short_description: "Query Genshin lore graph data."
-  default_prompt: "Use $genshin-lore-graph to answer this Genshin character, relationship, or worldbuilding question with the bundled graph data."
+  short_description: "Query Genshin live and graph data."
+  default_prompt: "Use $genshin-lore-graph to answer this Genshin character, relationship, or worldbuilding question with Biligame basics and bundled graph data."
 
 policy:
   allow_implicit_invocation: true
