@@ -95,22 +95,30 @@ skills/genshin-lore-graph/
 
 常用 Skill 安装命令：
 
+推荐先从 GitHub 克隆仓库：[Houraiji/genshin-lore-graph](https://github.com/Houraiji/genshin-lore-graph)。
+
 ```powershell
-# Codex, Windows PowerShell
+git clone https://github.com/Houraiji/genshin-lore-graph.git
+Set-Location .\genshin-lore-graph
+
+# Codex
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills"
 Copy-Item -Recurse -Force ".\skills\genshin-lore-graph" "$env:USERPROFILE\.codex\skills\"
 
-# Claude Code, Windows PowerShell
+# Claude Code
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.claude\skills"
 Copy-Item -Recurse -Force ".\skills\genshin-lore-graph" "$env:USERPROFILE\.claude\skills\"
 ```
 
 ```bash
-# Codex, macOS/Linux
+git clone https://github.com/Houraiji/genshin-lore-graph.git
+cd genshin-lore-graph
+
+# Codex
 mkdir -p ~/.codex/skills
 cp -R skills/genshin-lore-graph ~/.codex/skills/
 
-# Claude Code, macOS/Linux
+# Claude Code
 mkdir -p ~/.claude/skills
 cp -R skills/genshin-lore-graph ~/.claude/skills/
 ```
